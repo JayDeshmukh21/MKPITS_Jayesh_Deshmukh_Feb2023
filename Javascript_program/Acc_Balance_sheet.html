@@ -1,0 +1,32 @@
+<html>
+   <h1>Account Balance Sheet</h1>
+   <body>
+    Account No. : <input type="text" id="num1" /> <br> <br>
+    Initial balance : <input type="text" id="num2" /> <br> <br>
+    Amount  : <input type="text" id="num3" /> <br> <br>
+    <input type="button" value="Diposit" onclick="ShowInfo();" />
+    <input type="button" value="Withdrawl" onclick="Show();" />
+    <br> <br> <span id="jps">  Balance is : </span>
+   
+</body>
+<script language="javascript">
+    function ShowInfo()
+     {
+        var Account_no, Initail_balance, Amount, Diposit;
+        Account_no = (document.getElementById("num1").value);
+        Initail_balance = parseInt(document.getElementById("num2").value);
+        Amount = parseInt(document.getElementById("num3").value);
+        Deposit = Initail_balance + Amount;
+        document.getElementById("jps").innerHTML = "Balance is =" + Deposit;
+    }
+    function Show()
+     {
+        var Account_no, Initail_balance, Amount,Withdrawl;
+        Account_no = (document.getElementById("num1").value);
+        Initail_balance = parseInt(document.getElementById("num2").value);
+        Amount = parseInt(document.getElementById("num3").value);
+        Withdrawl = Initail_balance - Amount;
+        document.getElementById("jps").innerHTML = "Balance is =" + Withdrawl;
+    }
+    </script>
+</html>

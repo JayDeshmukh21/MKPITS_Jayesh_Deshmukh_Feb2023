@@ -1,0 +1,25 @@
+<html>
+    <h1>Adults_teenager</h1>
+    <body>
+        Enter age : <input type="text" id="rev" />
+        <br><br>
+        <input type="button" value="show" onclick="age();" /> <br> <br>
+        <span id="res"> </span>
+    </body>
+    <script language="javascript">
+        function age()
+        {
+            var num;
+            num=parseInt(document.getElementById("rev").value);
+
+            if (num >=18)
+            {
+                document.getElementById("res").innerHTML="You are Adult now take a responsibility of yourself";
+            }
+            else
+            {
+                document.getElementById("res").innerHTML="you are teenager ";
+            }
+        }
+    </script>
+</html>

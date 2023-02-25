@@ -1,0 +1,23 @@
+<html>
+    <h1>check odd even number</h1>
+    <body>
+       Enter no. <input type="text" id="res" /><br> <br>
+       <input type="button" value="check" onclick="show();" /><br> <br>
+       <span id="rev"> </span>
+    </body>
+    <script language="javascript">
+        function show()
+        { var num;
+            num = document.getElementById("res").value;
+
+            if (num % 2 == 0)
+            {
+                document.getElementById("rev").innerHTML="Entered no. is Even";
+            }
+            else
+            {
+                document.getElementById("rev").innerHTML="Entered no. is Odd";
+            }
+        }
+    </script>
+</html>

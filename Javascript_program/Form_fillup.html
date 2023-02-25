@@ -1,0 +1,28 @@
+<html>
+   <h1>Form Fill up</h1>
+   <body>
+    Firstname : <input type="text" id="num1" /> <br> <br>
+    Lastname : <input type="text" id="num2" /> <br> <br>
+    Email  : <input type="text" id="num3" /> <br> <br>
+    Mobile no.  : <input type="text" id="num4" /> <br> <br>
+    <input type="button" value="Submit" onclick="ShowInfo();" />
+    <br> <br> <span id="jps">  Firstname : </span>
+    <br> <br> <span id="psj">  Lastname  :</span>
+    <br> <br> <span id="sjp">  Email     :</span>
+    <br> <br> <span id="spj">  Mobile no.:</span>
+    </body>
+    <script language="javascript">
+        function ShowInfo()
+         {
+            var  Firstname, Lastname, Email, Mobile_no;
+            Firstname = (document.getElementById("num1").value);
+            Lastname = (document.getElementById("num2").value);
+            Email = (document.getElementById("num3").value);
+            Mobile_no =(document.getElementById("num4").value);
+            document.getElementById("jps").innerHTML = "Firstname is =" + Firstname;
+            document.getElementById("psj").innerHTML = "Lastname is =" + Lastname;
+            document.getElementById("sjp").innerHTML = "Email is =" + Email;
+            document.getElementById("spj").innerHTML = "Mobile no. is =" + Mobile_no;
+        }
+        </script>
+</html>

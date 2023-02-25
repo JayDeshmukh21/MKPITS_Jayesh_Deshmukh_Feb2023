@@ -1,0 +1,25 @@
+<html>
+   <h1>Subject result</h1>
+   <body>
+    Maths : <input type="text" id="num1" /> <br> <br>
+    physics : <input type="text" id="num2" /> <br> <br>
+    chemistry : <input type="text" id="num3" /> <br> <br>
+    <input type="button" value="Result" onclick="mulNumber();" />
+    <br> <br>
+    <br> <br> <span id="res"> total : </span>
+    <br> <br> <span id="jvs"> percentage : </span>
+    </body>
+    <script language="javascript">
+        function mulNumber()
+         {
+            var Maths, physics, chemistry, total, percentage;
+            Maths = parseInt(document.getElementById("num1").value);
+            physics = parseInt(document.getElementById("num2").value);
+            chemistry = parseInt(document.getElementById("num3").value);
+            total = Maths + physics + chemistry;
+            percentage = total/300 *100;
+            document.getElementById("res").innerHTML = "Total marks is =" + total +"<br>";
+            document.getElementById("jvs").innerHTML = "Percentage is (%)=" + percentage;
+        }
+        </script>
+</html>
