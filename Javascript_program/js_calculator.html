@@ -1,0 +1,133 @@
+<html>
+    <h1>Calculator using if_else_if condition</h1>
+    <style>
+        td {text-align:center;}
+    </style>
+    <form name="f1" style="width:300; height:500; background-color: rgb(200, 198, 198); border:10px solid red; margin-top: 150px; margin-left: 550px;" >
+        <table width="100%" align="center">
+            <tr>
+                <td> <input type="text" name="t1" style="width:100%; padding:15px; background-color: aqua;" /></td>
+            </tr>
+        </table>
+        <table align="left">
+            <tr>
+                <td><input type="button" value="1" onclick="show1();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="2" onclick="show2();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="3" onclick="show3();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td></tr>
+            <tr><td><input type="button" value="4" onclick="show4();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="5" onclick="show5();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="6" onclick="show6();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td></tr>
+            <tr><td><input type="button" value="7" onclick="show7();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="8" onclick="show8();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+                <td><input type="button" value="9" onclick="show9();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td></tr>
+                <td><input type="button" value="0" onclick="show0();" style="padding: 25px; background-color: rgb(88, 158, 185); border:5px solid black;" ></td>
+            
+                <td> <input type="button" value="+" onclick="showplus();" style="padding:25px; border:5px solid green;" ></td>
+                <td> <input type="button" value="-" onclick="showminus();" style="padding:25px; border:5px solid green;" ></td>
+            </tr>
+        
+            <tr>
+                <td> <input type="button" value="*" onclick="showmultiply();" style="padding:25px; border:5px solid green;" ></td>
+                <td> <input type="button" value="/" onclick="showdivision();" style="padding:25px; border:5px solid green;" ></td>
+                <td> <input type="button" value="=" onclick="showresult();" style="padding:25px; border:5px solid red;" ></td>
+                <td> <input type="button" value="C" onclick="showclear();" style="padding:25px;color: blue; border:5px solid black;" ></td>
+            </tr>
+
+        </table>
+        <script>
+            var prevnum=0, operator, result=0;
+            function show1()
+                {
+                    document.f1.t1.value="1" ;
+                }
+            function show2()
+            {
+                document.f1.t1.value="2" ;
+            }
+            function show3()
+            {
+                document.f1.t1.value="3" ;
+            }
+            function show4()
+            {
+                document.f1.t1.value="4" ;
+            }
+            function show5()
+            {
+                document.f1.t1.value="5" ;
+            }
+            function show6()
+            {
+                document.f1.t1.value="6" ;
+            }
+            function show7()
+            {
+                document.f1.t1.value="7" ;
+            }
+            function show8()
+            {
+                document.f1.t1.value="8" ;
+            }
+            function show9()
+            {
+                document.f1.t1.value="9" ;
+            }
+            function show0()
+            {
+                document.f1.t1.value="0" ;
+            }
+            
+            function showplus()
+            {
+                prevnum=document.f1.t1.value ;
+                operator='+' ;
+                document.f1.t1.value="+" ;
+            }
+            function showminus()
+            {
+                prevnum=document.f1.t1.value ;
+                operator='-' ;
+                document.f1.t1.value="-" ;
+            }
+            function showmultiply()
+            {
+                prevnum=document.f1.t1.value ;
+                operator='*' ;
+                document.f1.t1.value="*" ;
+            }
+            function showdivision()
+            {
+                prevnum=document.f1.t1.value ;
+                operator='/' ;
+                document.f1.t1.value="/" ;
+            }
+            function showclear()
+            {
+                prevnum=document.f1.t1.value ;
+                document.f1.t1.value=" " ;
+            }
+            function showresult()
+            {
+                if (operator=='+')
+                {
+                    result=parseInt(prevnum) + parseInt(document.f1.t1.value) ;
+                }
+                else if(operator=='-')
+                {
+                    result=parseInt(prevnum) - parseInt(document.f1.t1.value) ;
+                }
+                else if(operator=='*')
+                {
+                    result=parseInt(prevnum) * parseInt(document.f1.t1.value) ;
+                }
+                else if(operator=='/')
+                {
+                    result=parseInt(prevnum) / parseInt(document.f1.t1.value) ;
+                }
+                document.f1.t1.value=result ;
+            }
+
+            
+        </script>
+    </form>
+</html>

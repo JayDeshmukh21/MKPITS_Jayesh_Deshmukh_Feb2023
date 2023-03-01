@@ -1,0 +1,35 @@
+<html>
+    <body>
+        Enter Character : <input type="text" id="char1" />
+        <input type="button" value="check" onclick="showvowel()"; />
+    </body>
+    <script>
+        function showvowel()
+        {
+            var char, result;
+            char=document.getElementById("char1").value;
+            switch(char)
+            {
+                case 'a':
+                    result="it is a vowel";
+                    break;
+                    case 'e':
+                    result="it is a vowel";
+                    break;
+                    case 'i':
+                    result="it is a vowel";
+                    break;
+                    case 'o' :
+                    result="it is a vowel";
+                    break;
+                    case 'u':
+                    result="it is a vowel";
+                    break;
+                    default:
+                    result="it is not an vowel";
+                    break;
+            }
+            alert("result " +result);
+        }
+    </script>
+</html>

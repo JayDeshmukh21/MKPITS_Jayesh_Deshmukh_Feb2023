@@ -1,0 +1,25 @@
+<html>
+    <h1>except no and print a table</h1>
+    <body>
+        Enter no. : <input type="text" id="n1" />
+        <br>
+        <input type="button" value="show table"  onclick="showtable();" />
+        <br>
+    </body>
+    <script>
+        function showtable()
+        {
+            var num, result, counter;
+            num=parseInt(document.getElementById("n1").value);
+            counter=1;
+            result=1;
+            do
+            {
+                result=num*counter;
+                document.write(num +"*"+counter +"=" +result + "<br>");
+                counter=counter+1;
+            }
+            while(counter<=10);
+        }
+    </script>
+</html>

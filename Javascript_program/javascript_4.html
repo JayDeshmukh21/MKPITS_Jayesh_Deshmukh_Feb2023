@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <h1> javascript program 4</h1>
+    </head>
+    <body>
+        Enter no : <input type="text" name="n1" />
+        <br>
+        Enter no : <input type="text" name="n2" />
+        <br>
+        Enter operation to be perform : <input type="text" name="n3" />
+        <br>
+        <input type="button" value="submit" onclick="evalNumbers(document.getElementsByName('n1')[0].value,document.getElementsByName('n2')[0].value,document.getElementsByName('n3')[0].value);" />
+
+    </body>
+        <script>
+            function evalNumbers( num1,num2,op)
+            {
+                if(op == "add")
+                {
+                    document.write(`Sum of ${num1} and ${num2} is ${num1+num2}`);
+                }
+                else if(parseInt(op) =="subtract")
+                {
+                    document.write(`Difference of ${num1} and ${num2} is ${num1-num2}`);
+                }
+                else if(parseInt(op) == "multiply")
+                {
+                    document.write(`Product of ${num1} and ${num2} is ${num1*num2}`);=
+                }
+                else if(parseInt(op) == "divide")
+                {
+                    document.write(`Division of ${num1} and ${num2} is ${num1/num2}`);
+                }
+                else if(parseInt(op) == "modulus")
+                {
+                    document.write(`Modulus of ${num1} and ${num2} is ${num1%num2}`);
+                }
+                else
+                {
+                    document.write(`${op} is an invalid operation`);
+                }
+            }
+        </script>
+</html>

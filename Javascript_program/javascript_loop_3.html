@@ -1,0 +1,25 @@
+<html>
+    <h1>print factorial of a number</h1>
+    <body>
+        Enter no : <input type="text" id="n1" />
+        <br>
+        <input type="button" value="Result" onclick="Showfact();" />
+    </body>
+
+    <script>
+
+    function Showfact()
+    {
+        var num, fact;
+        num=parseInt(document.getElementById("n1").value);
+        fact=1;
+        do
+        {
+            fact=fact * num;
+            num= num - 1;
+        }
+        while(num>0);
+            document.write(fact + " is a factorial of 5");
+    }
+    </script>
+</html>

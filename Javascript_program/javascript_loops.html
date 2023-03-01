@@ -1,0 +1,21 @@
+<html>
+    <h1>print number from 1 to 5 using while loop</h1>
+    <body>
+        Enter no. : <input type="text" id="n1" />
+        <br>
+        <input type="button" value="ok" onclick="showwhile()"; />
+        <script>
+            function showwhile()
+            {
+                var num;
+                num=parseInt(document.getElementById("n1").value);
+
+                while(num<=5)
+                {
+                    document.write(num + "<br>");
+                    num=num + 1 ;
+                }
+            } 
+        </script>
+    </body>
+</html>
