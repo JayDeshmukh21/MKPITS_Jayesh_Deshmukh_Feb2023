@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\bin\Debug\10 dtyp byte.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\bin\Debug\10 dtyp byte.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\bin\Debug\10 dtyp byte.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\obj\Debug\10 dtyp byte.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\obj\Debug\10 dtyp byte.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\obj\Debug\10 dtyp byte.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\obj\Debug\10 dtyp byte.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\10 dtyp byte\10 dtyp byte\obj\Debug\10 dtyp byte.pdb

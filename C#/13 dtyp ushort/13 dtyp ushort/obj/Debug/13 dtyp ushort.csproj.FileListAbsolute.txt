@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\bin\Debug\13 dtyp ushort.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\bin\Debug\13 dtyp ushort.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\bin\Debug\13 dtyp ushort.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\obj\Debug\13 dtyp ushort.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\obj\Debug\13 dtyp ushort.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\obj\Debug\13 dtyp ushort.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\obj\Debug\13 dtyp ushort.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\13 dtyp ushort\13 dtyp ushort\obj\Debug\13 dtyp ushort.pdb

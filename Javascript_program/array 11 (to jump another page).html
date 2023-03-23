@@ -1,0 +1,32 @@
+<html>
+    
+        <form method=post action="login.aspx" onsubmit="return check()" >
+        Username: <INPUT TYPE="TEXT" ID="T1" /> <BR> <BR>
+        password: <INPUT TYPE="password" ID="T2" /> <BR> <BR>
+        
+        <INPUT TYPE="submit" VALUE="submit"  /> <BR> <BR>
+        
+        </form>
+    
+    <script>
+        function Check()
+        {
+            
+            var username =document.getElementById("T1").value;
+            var password =document.getElementById("T2").value;
+            if(username=="" && password=="")
+
+            {
+                alert("please enter username or password");
+                return false;
+            }
+            else if(password.length < 6)
+            {
+                alert("welcome user : " + username);
+                return false;
+            }
+            
+        }
+
+    </script>
+</html>

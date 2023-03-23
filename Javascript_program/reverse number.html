@@ -1,0 +1,11 @@
+<body align="center">
+    <h1>reverse the numbers</h1>
+<script>
+    var num=123;
+    var digit1 =num % 10;
+    var digit2 =Math.floor (num/10) % 10;
+    var digit3 =Math.floor (num/100);
+    var revnumber=(digit1 * 100) + (digit2 * 10) + digit3;
+    document.write("reverse number is " +revnumber);
+    </script>
+    </body>

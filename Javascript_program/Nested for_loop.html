@@ -1,0 +1,19 @@
+<body align="center">
+    <h1>prime number using loop in loop function</h1>
+<script>
+    for(num=1; num<=10; num++)
+    {
+        isprime=true;
+        for(counter=2; counter<num; counter++)
+        {
+            if(num%counter==0)
+            {
+                isprime=false;
+                break;
+            }
+        }if(isprime && num>1)
+        {
+            document.write(num + " the number is prime" + "<br>");
+        }  
+    }    
+</script>

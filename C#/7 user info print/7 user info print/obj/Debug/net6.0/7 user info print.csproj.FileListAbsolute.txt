@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\bin\Debug\net6.0\7 user info print.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\bin\Debug\net6.0\7 user info print.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\bin\Debug\net6.0\7 user info print.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\bin\Debug\net6.0\7 user info print.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\bin\Debug\net6.0\7 user info print.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\refint\7 user info print.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\7 user info print.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\7 user info print\7 user info print\obj\Debug\net6.0\ref\7 user info print.dll

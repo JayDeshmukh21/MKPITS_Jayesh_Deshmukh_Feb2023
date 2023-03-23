@@ -1,0 +1,97 @@
+<html>
+    <head>
+        Enter number: <input type="text" id="n1" />
+        <input type="button" value="check" onclick="main();" />
+    </head>
+    <body>
+        <script>
+    var n=document.getElementById("n1").value;
+    var r;
+    var sum=0;
+    var temp;
+    function main()
+    {
+        do
+        {
+            temp=n;
+            r=n%10;
+        }
+        while(n>0)
+        {
+            if()
+        }
+    }
+    </script>
+    </body>
+</html>
+
+
+int main()    
+{    
+int n,r,sum=0,temp;    
+printf("enter the number=");    
+scanf("%d",&n);    
+temp=n;    
+while(n>0)    
+{    
+r=n%10;    
+sum=(sum*10)+r;    
+n=n/10;    
+}    
+if(temp==sum)    
+printf("palindrome number ");    
+else    
+printf("not palindrome");   
+return 0;  
+}   
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html"><img src="MKPITS_Logo.png" alt="logo" width="80px" height="80px"> </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Coueses</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Admission</a>
+        </li>
+      </ul>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="nav justify-content-end">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="https://mkpits.in/about.html">About <span class="sr-only"></span></a>
+          </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Courses
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="https://mkpits.in/courses.html">All Courses</a>
+            <a class="dropdown-item" href="https://mkpits.in/course-details-java.html">JAVA</a>
+            <a class="dropdown-item" href="https://mkpits.in/course-details-dotnet.html">DOTNET</a>
+            <a class="dropdown-item" href="https://mkpits.in/course-details-php.html">PHP</a>
+            <div class="dropdown-divider"></div>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Admission</a>
+        </li>
+      </ul>
+    </div>
+  </nav>

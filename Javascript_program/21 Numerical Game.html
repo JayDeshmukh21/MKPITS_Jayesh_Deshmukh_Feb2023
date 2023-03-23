@@ -1,0 +1,32 @@
+<html>
+    <body>
+    <table align="center" border="2px solid red">
+        <tr>
+            <th><button value="" id="b1" ></th>
+            <th><button value="" id="b2" ></th>
+            <th><button value="" id="b3" ></th>
+        </tr>
+    </table>
+    <input type="button" value="start" id="s1" onclick="start();" />
+    </body>
+    <script>
+        var arr=new Array();
+        var num=3;
+        do
+        {
+            var n1=Math.floor(Math.random() * 3)+ 1;
+            if (!arr.includes(n1))
+            {
+                arr.push(n1);
+            }
+        }
+        while(arr.length < num);
+
+        function start()
+        {
+            document.getElementById("b1").innerHTML=arr[0];
+            document.getElementById("b2").innerHTML=arr[1];
+            document.getElementById("b3").innerHTML=arr[2];
+        }
+    </script>
+</html>

@@ -1,0 +1,25 @@
+<body>
+    <h1 align="center"> time remains : 
+    <span id="s1" > 1:00 minutes </span>
+    </h1>
+    <input type="button" value="start" onclick="start();" />
+
+</body>
+<script>
+    function start()
+    {
+        var count=60;
+        setInterval(function() 
+        { count--; if(count>=0) 
+            {
+                var res=document.getElementById("s1");
+                res.innerHTML = "00 : " + count + "sec";
+            }
+            if (count==-1)
+            {
+                clearInterval(count);
+            }
+        }, 1000);
+                    
+    }
+</script>

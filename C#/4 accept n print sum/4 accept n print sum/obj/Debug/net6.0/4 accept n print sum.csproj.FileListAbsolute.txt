@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\bin\Debug\net6.0\4 accept n print sum.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\bin\Debug\net6.0\4 accept n print sum.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\bin\Debug\net6.0\4 accept n print sum.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\bin\Debug\net6.0\4 accept n print sum.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\bin\Debug\net6.0\4 accept n print sum.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\refint\4 accept n print sum.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\4 accept n print sum.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\4 accept n print sum\4 accept n print sum\obj\Debug\net6.0\ref\4 accept n print sum.dll

@@ -1,0 +1,234 @@
+<html>
+<style>
+button.bt1{
+    background-color:aquamarine;
+}
+table{
+    border-color: blue;  
+    }
+
+</style>
+    <body>
+        <table align=center border="2px solid">
+            <tr>
+                <th><button value="" id="n1" class="bt1" onclick="one();" /></th>
+                <th><button value="" id="n2" onclick="two();"/></th>
+                <th><button value="" id="n3" onclick="three();"/></th>
+            </tr>
+            <tr>
+                <th><button value="" id="n4" onclick="four();"/></th>
+                <th><button value="" id="n5" onclick="five();"/></th>
+                <th><button value="" id="n6" onclick="six();"/></th>
+            </tr>
+            <tr>
+                <th><button value="" id="n7" onclick="seven();"/></th>
+                <th><button value="" id="n8" onclick="eight();"/></th>
+                <th><button value="" id="n9" onclick="nine();"/></th>
+            </tr>
+            <tr>
+                <th><button value="" id="n10" onclick="ten();"/></th>
+                <th><button value="" id="n11" onclick="eleven();"/></th>
+                <th><button value="" id="n12" onclick="twelve();"/></th>
+            </tr>
+        </table>
+        <input type="button" value="start" id="s1" onclick="start();" />
+    </body>
+    <script>
+        var arr1=[1,2,3,4,5,6,7,8,9,10,11,12];
+        var index=0;
+        var x;
+        var arr=new Array();
+        var num=12;
+        do
+        {
+            var n1=Math.floor(Math.random() * 12) + 1;
+            if (!arr.includes(n1))
+            {
+                arr.push(n1);
+            }
+            
+        }
+        while(arr.length < num);
+        function start()
+        
+        {
+            document.getElementById("n1").innerHTML=arr[0];
+            document.getElementById("n2").innerHTML=arr[1];
+            document.getElementById("n3").innerHTML=arr[2];
+            document.getElementById("n4").innerHTML=arr[3];
+            document.getElementById("n5").innerHTML=arr[4];
+            document.getElementById("n6").innerHTML=arr[5];
+            document.getElementById("n7").innerHTML=arr[6];
+            document.getElementById("n8").innerHTML=arr[7];
+            document.getElementById("n9").innerHTML=arr[8];
+            document.getElementById("n10").innerHTML=arr[9];
+            document.getElementById("n11").innerHTML=arr[10];
+            document.getElementById("n12").innerHTML=arr[11];
+
+            var count=30;
+        setInterval(function() 
+        { count--; if(count>=0) 
+            {
+                var res=document.getElementById("s1");
+                res.innerHTML = "00 : " + count + "sec";
+            }
+            if (count==-1)
+            {
+                clearInterval(count);
+            }
+        }, 1000);
+        }
+        
+        function one()
+        {
+            x=document.getElementById("n1").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index + 1;
+            }
+            else
+            {
+                alert("try again");
+            }
+
+        }
+        function two()
+        {
+            x=document.getElementById("n2").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function three()
+        {
+            x=document.getElementById("n3").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function four()
+        {
+            x=document.getElementById("n4").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function five()
+        {
+            x=document.getElementById("n5").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function six()
+        {
+            x=document.getElementById("n6").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function seven()
+        {
+            x=document.getElementById("n7").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function eight()
+        {
+            x=document.getElementById("n8").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function nine()
+        {
+            x=document.getElementById("n9").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function ten()
+        {
+            x=document.getElementById("n10").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function eleven()
+        {
+            x=document.getElementById("n11").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+            }
+            else
+            {
+                alert("try again");
+            }
+        }
+        function twelve()
+        {
+            x=document.getElementById("n12").innerHTML;
+            if(arr1[index]==x)
+            {
+                index=index+1;
+                if(index==12)
+                {
+                  alert("Congratulation's")  
+                }
+                else
+                {
+                    alert("you fail");
+                }
+            }
+            
+        }
+        
+    </script>
+</html>

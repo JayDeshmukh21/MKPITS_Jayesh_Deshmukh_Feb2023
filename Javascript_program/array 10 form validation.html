@@ -1,0 +1,28 @@
+<html>
+    <head>
+        Username: <INPUT TYPE="TEXT" ID="T1" /> <BR> <BR>
+        password: <INPUT TYPE="TEXT" ID="T2" /> <BR> <BR>
+        
+        <INPUT TYPE="BUTTON" VALUE="submit" ONCLICK="Check();" /> <BR> <BR>
+            
+    </head>
+    <script>
+        function Check()
+        {
+            
+            var username =document.getElementById("T1").value;
+            var password =document.getElementById("T2").value;
+            if(username=="" && password=="")
+
+            {
+                alert("please enter username or password");
+            }
+            else
+            {
+                alert("welcome user : " + username);
+            }
+            
+        }
+
+    </script>
+</html>

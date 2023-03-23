@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\bin\Debug\net6.0\Hello program.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\bin\Debug\net6.0\Hello program.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\bin\Debug\net6.0\Hello program.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\bin\Debug\net6.0\Hello program.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\bin\Debug\net6.0\Hello program.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\refint\Hello program.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\Hello program.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Hello program\Hello program\obj\Debug\net6.0\ref\Hello program.dll

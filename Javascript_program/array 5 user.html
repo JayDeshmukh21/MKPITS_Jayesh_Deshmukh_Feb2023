@@ -1,0 +1,28 @@
+<html>
+    <head>
+        Enter Subject 1: <INPUT TYPE="TEXT" ID="T1" /> <BR> <BR>
+        Enter Subject 2: <INPUT TYPE="TEXT" ID="T2" /> <BR> <BR>
+        Enter Subject 3: <INPUT TYPE="TEXT" ID="T3" /> <BR> <BR>
+        <INPUT TYPE="BUTTON" VALUE="RESULT" ONCLICK="CALCULATE();" /> <BR> <BR>
+            total: <SPAN ID="S1"></SPAN> <BR> <BR>
+                percentage :<SPAN ID="S2"></SPAN> <BR> <BR>
+    </head>
+    <script>
+        function CALCULATE()
+        {
+            var total;
+            var percentage;
+            var marks= new Array();
+            marks[0]=parseInt(document.getElementById("T1").value);
+            marks[1]=parseInt(document.getElementById("T2").value);
+            marks[2]=parseInt(document.getElementById("T3").value);
+
+            total=marks[0]+marks[1]+marks[2];
+            percentage= total / 300 *100;
+
+            document.getElementById("S1").innerHTML= total;
+            document.getElementById("S2").innerHTML= percentage;
+        }
+
+    </script>
+</html>

@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\bin\Debug\net6.0\3 square number.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\bin\Debug\net6.0\3 square number.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\bin\Debug\net6.0\3 square number.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\bin\Debug\net6.0\3 square number.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\bin\Debug\net6.0\3 square number.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\refint\3 square number.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\3 square number.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\3 square number\3 square number\obj\Debug\net6.0\ref\3 square number.dll

@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\obj\Debug\9 accept char frm user.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\obj\Debug\9 accept char frm user.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\obj\Debug\9 accept char frm user.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\bin\Debug\9 accept char frm user.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\bin\Debug\9 accept char frm user.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\bin\Debug\9 accept char frm user.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\obj\Debug\9 accept char frm user.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\9 accept char frm user\9 accept char frm user\obj\Debug\9 accept char frm user.pdb

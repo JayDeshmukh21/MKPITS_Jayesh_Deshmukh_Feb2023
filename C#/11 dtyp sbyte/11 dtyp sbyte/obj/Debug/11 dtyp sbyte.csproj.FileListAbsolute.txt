@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\bin\Debug\11 dtyp sbyte.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\bin\Debug\11 dtyp sbyte.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\bin\Debug\11 dtyp sbyte.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\obj\Debug\11 dtyp sbyte.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\obj\Debug\11 dtyp sbyte.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\obj\Debug\11 dtyp sbyte.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\obj\Debug\11 dtyp sbyte.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\11 dtyp sbyte\11 dtyp sbyte\obj\Debug\11 dtyp sbyte.pdb

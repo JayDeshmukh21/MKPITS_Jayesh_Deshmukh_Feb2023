@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\bin\Debug\net6.0\6 add 3 num.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\bin\Debug\net6.0\6 add 3 num.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\bin\Debug\net6.0\6 add 3 num.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\bin\Debug\net6.0\6 add 3 num.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\bin\Debug\net6.0\6 add 3 num.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\refint\6 add 3 num.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\6 add 3 num.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\6 add 3 num\6 add 3 num\obj\Debug\net6.0\ref\6 add 3 num.dll

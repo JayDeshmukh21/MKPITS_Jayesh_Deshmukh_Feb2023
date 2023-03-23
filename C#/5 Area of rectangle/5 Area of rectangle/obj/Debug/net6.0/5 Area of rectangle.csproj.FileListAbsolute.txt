@@ -1,0 +1,15 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\bin\Debug\net6.0\5 Area of rectangle.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\bin\Debug\net6.0\5 Area of rectangle.deps.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\bin\Debug\net6.0\5 Area of rectangle.runtimeconfig.json
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\bin\Debug\net6.0\5 Area of rectangle.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\bin\Debug\net6.0\5 Area of rectangle.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.AssemblyInfoInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.AssemblyInfo.cs
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\refint\5 Area of rectangle.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\5 Area of rectangle.genruntimeconfig.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Area of rectangle\5 Area of rectangle\obj\Debug\net6.0\ref\5 Area of rectangle.dll
