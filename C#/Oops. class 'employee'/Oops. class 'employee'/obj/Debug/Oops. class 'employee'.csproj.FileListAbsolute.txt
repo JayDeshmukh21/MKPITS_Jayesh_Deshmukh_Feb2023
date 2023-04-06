@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\bin\Debug\Oops.class__employee_.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\bin\Debug\Oops.class__employee_.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\bin\Debug\Oops.class__employee_.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\obj\Debug\Oops. class 'employee'.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\obj\Debug\Oops. class 'employee'.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\obj\Debug\Oops. class 'employee'.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\obj\Debug\Oops.class__employee_.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Oops. class 'employee'\Oops. class 'employee'\obj\Debug\Oops.class__employee_.pdb

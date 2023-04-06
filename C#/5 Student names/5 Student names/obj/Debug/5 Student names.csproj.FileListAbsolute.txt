@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\bin\Debug\5 Student names.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\bin\Debug\5 Student names.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\bin\Debug\5 Student names.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\obj\Debug\5 Student names.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\obj\Debug\5 Student names.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\obj\Debug\5 Student names.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\obj\Debug\5 Student names.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\5 Student names\5 Student names\obj\Debug\5 Student names.pdb

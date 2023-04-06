@@ -1,0 +1,3 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\table of a number\table of a number\obj\Debug\table of a number.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\table of a number\table of a number\obj\Debug\table of a number.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\table of a number\table of a number\obj\Debug\table of a number.csproj.CoreCompileInputs.cache

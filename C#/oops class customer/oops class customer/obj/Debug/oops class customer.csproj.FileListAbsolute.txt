@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\bin\Debug\oops class customer.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\bin\Debug\oops class customer.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\bin\Debug\oops class customer.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\obj\Debug\oops class customer.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\obj\Debug\oops class customer.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\obj\Debug\oops class customer.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\obj\Debug\oops class customer.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops class customer\oops class customer\obj\Debug\oops class customer.pdb

@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\bin\Debug\Multiple parameter.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\bin\Debug\Multiple parameter.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\bin\Debug\Multiple parameter.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\obj\Debug\Multiple parameter.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\obj\Debug\Multiple parameter.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\obj\Debug\Multiple parameter.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\obj\Debug\Multiple parameter.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Multiple parameter\Multiple parameter\obj\Debug\Multiple parameter.pdb

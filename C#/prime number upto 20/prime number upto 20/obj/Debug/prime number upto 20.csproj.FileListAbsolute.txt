@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\bin\Debug\prime number upto 20.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\bin\Debug\prime number upto 20.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\bin\Debug\prime number upto 20.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\obj\Debug\prime number upto 20.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\obj\Debug\prime number upto 20.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\obj\Debug\prime number upto 20.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\obj\Debug\prime number upto 20.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\prime number upto 20\prime number upto 20\obj\Debug\prime number upto 20.pdb

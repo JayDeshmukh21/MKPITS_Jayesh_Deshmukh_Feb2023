@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\bin\Debug\oops.class_product.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\bin\Debug\oops.class_product.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\bin\Debug\oops.class_product.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\obj\Debug\oops. class product.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\obj\Debug\oops. class product.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\obj\Debug\oops. class product.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\obj\Debug\oops.class_product.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\oops. class product\oops. class product\obj\Debug\oops.class_product.pdb

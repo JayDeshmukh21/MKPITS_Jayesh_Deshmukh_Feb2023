@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\bin\Debug\1 form add.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\bin\Debug\1 form add.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\bin\Debug\1 form add.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\_1_form_add.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\_1_form_add.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 form add\1 form add\obj\Debug\1 form add.pdb

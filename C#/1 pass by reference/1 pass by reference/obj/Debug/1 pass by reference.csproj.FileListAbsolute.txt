@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\bin\Debug\1 pass by reference.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\bin\Debug\1 pass by reference.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\bin\Debug\1 pass by reference.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\obj\Debug\1 pass by reference.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\obj\Debug\1 pass by reference.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\obj\Debug\1 pass by reference.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\obj\Debug\1 pass by reference.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\1 pass by reference\1 pass by reference\obj\Debug\1 pass by reference.pdb

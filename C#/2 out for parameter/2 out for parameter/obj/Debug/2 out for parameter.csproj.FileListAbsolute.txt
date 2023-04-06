@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\bin\Debug\2 out for parameter.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\bin\Debug\2 out for parameter.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\bin\Debug\2 out for parameter.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\obj\Debug\2 out for parameter.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\obj\Debug\2 out for parameter.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\obj\Debug\2 out for parameter.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\obj\Debug\2 out for parameter.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\2 out for parameter\2 out for parameter\obj\Debug\2 out for parameter.pdb
