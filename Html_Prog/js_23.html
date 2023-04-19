@@ -1,0 +1,167 @@
+<html>
+<style>
+th{padding:30px}
+input{padding:30px;background-color:pink;}
+
+</style>
+
+<body>
+<h1 align=center>time remains
+<span id="s1"> <font color=red>00:10 min </span></h1>
+
+
+<table align=center border=2>
+<tr>
+<th><button id="b1"  onclick="one()";> </button> </th>
+<th><button id="b2"  onclick="two()";> </button> </th>
+<th><button id="b3"  onclick="three()";> </button> </th>
+
+</tr>
+</table><br><br>
+
+<center><input type="button" class="b" value="start" onclick="start();strt();" id="str"  /><br><br>
+<p align=center id="p1" >Final result out of 3 : </p>
+  
+</body>
+<script>
+
+
+var counter=10;
+function startTimer()
+{
+setInterval( function (){
+counter--;
+if(counter>=0)
+{
+var res=document.getElementById("s1");
+res.innerHTML="00:"+ counter+"sec";
+
+}
+if(counter==-1)
+{
+alert('sorry, out of time');
+clearInterval(counter);
+}
+},1000);
+}
+
+
+
+
+
+var arr=new Array();
+var num=3;
+do
+{
+ var n1=Math.floor(Math.random()*3)+1;
+if(! arr.includes(n1))
+{
+arr.push(n1);
+
+}
+}
+while(arr.length<num);
+function strt()
+{
+document.getElementById("b1").innerHTML=arr[0];
+document.getElementById("b2").innerHTML=arr[1];
+document.getElementById("b3").innerHTML=arr[2];
+document.getElementById("str").disabled = true;
+
+
+}
+
+var arr1=[1,2,3];
+var result=0;
+var x;
+function one()
+{
+	document.getElementById("b1").style.background="#bdb76b";
+	x=document.getElementById("b1").innerHTML;
+     document.getElementById("b1").disabled=true;
+	if(arr1[result]==x)
+  {
+	result=result+1;
+	showresult();
+
+  }
+else
+{
+alert("you lose the game,try game!");
+counter=-1;
+clearInterval(counter);
+
+
+
+}
+
+}
+
+
+function two()
+{
+	document.getElementById("b2").style.background="#bdb76b";
+	x=document.getElementById("b2").innerHTML;
+	 document.getElementById("b2").disabled=true;
+	if(arr1[result]==x)
+  {
+	result=result+1;
+    showresult();
+      
+  }
+else
+{
+
+alert("you lose the game");
+counter=-1;
+clearInterval(counter);
+
+
+}
+}
+
+function three()
+{
+	document.getElementById("b3").style.background="#bdb76b";
+	x=document.getElementById("b3").innerHTML;
+	 document.getElementById("b3").disabled=true;
+	if(arr1[result]==x)
+  {
+	result=result+1;
+     showresult();
+
+
+  }
+else
+{
+
+alert("you lose the game");
+counter=-1;
+clearInterval(counter);
+
+
+}
+}
+function showresult()
+  {
+  if(result==3)
+  {
+  
+  alert("congratulations , you won the game");
+   		counter=-1;
+		 clearInterval(counter);
+		 document.getElementById("p1").innerHTML="congratulations you won the game";
+}
+  
+  }
+
+function start()
+ {
+    document.getElementById("s1").style="color:green;"
+    startTimer();
+ }
+
+
+
+</script>
+</html>

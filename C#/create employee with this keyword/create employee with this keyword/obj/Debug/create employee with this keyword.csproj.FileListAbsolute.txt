@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\bin\Debug\create employee with this keyword.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\bin\Debug\create employee with this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\bin\Debug\create employee with this keyword.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\obj\Debug\create employee with this keyword.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\obj\Debug\create employee with this keyword.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\obj\Debug\create employee with this keyword.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\obj\Debug\create employee with this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create employee with this keyword\create employee with this keyword\obj\Debug\create employee with this keyword.pdb

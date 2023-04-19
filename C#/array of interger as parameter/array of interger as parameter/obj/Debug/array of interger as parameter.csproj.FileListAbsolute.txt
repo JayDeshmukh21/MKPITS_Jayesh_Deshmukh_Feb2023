@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\bin\Debug\array of interger as parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\bin\Debug\array of interger as parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\bin\Debug\array of interger as parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\obj\Debug\array of interger as parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\obj\Debug\array of interger as parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\obj\Debug\array of interger as parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\obj\Debug\array of interger as parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of interger as parameter\array of interger as parameter\obj\Debug\array of interger as parameter.pdb

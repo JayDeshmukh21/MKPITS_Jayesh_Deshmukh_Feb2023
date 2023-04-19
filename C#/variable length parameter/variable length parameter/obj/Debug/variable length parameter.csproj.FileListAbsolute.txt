@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\bin\Debug\variable length parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\bin\Debug\variable length parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\bin\Debug\variable length parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\obj\Debug\variable length parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\obj\Debug\variable length parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\obj\Debug\variable length parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\obj\Debug\variable length parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\variable length parameter\variable length parameter\obj\Debug\variable length parameter.pdb

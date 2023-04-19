@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\bin\Debug\pyramid form1.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\bin\Debug\pyramid form1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\bin\Debug\pyramid form1.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid_form1.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid_form1.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pyramid form1\pyramid form1\obj\Debug\pyramid form1.pdb

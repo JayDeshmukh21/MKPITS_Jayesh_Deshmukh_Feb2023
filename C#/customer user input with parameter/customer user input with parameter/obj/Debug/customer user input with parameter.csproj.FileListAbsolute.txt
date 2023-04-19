@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\bin\Debug\customer user input with parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\bin\Debug\customer user input with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\bin\Debug\customer user input with parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\obj\Debug\customer user input with parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\obj\Debug\customer user input with parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\obj\Debug\customer user input with parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\obj\Debug\customer user input with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer user input with parameter\customer user input with parameter\obj\Debug\customer user input with parameter.pdb

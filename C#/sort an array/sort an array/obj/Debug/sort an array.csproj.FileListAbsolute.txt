@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\bin\Debug\sort an array.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\bin\Debug\sort an array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\bin\Debug\sort an array.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\obj\Debug\sort an array.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\obj\Debug\sort an array.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\obj\Debug\sort an array.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\obj\Debug\sort an array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\sort an array\sort an array\obj\Debug\sort an array.pdb

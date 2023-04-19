@@ -1,0 +1,22 @@
+<html>
+
+<body>
+length:<input  type="text"  id="len"/><br><br>
+breadth:<input  type="text"  id="bre"/><br><br>
+<input type= "button"  value = "area"  onclick ="rArea()"; /  >
+<br>
+<span id="ae">area:</span>
+
+</body>
+
+<script language = "javascript">
+function rArea()
+{
+var length,breadth,area;
+length = parseInt(document.getElementById("len").value);
+breadth = parseInt(document.getElementById("bre").value);
+area = length*breadth;
+document.getElementById("ae").innerHTML ="area = "+ area; 
+}
+</script>
+</html>

@@ -1,0 +1,29 @@
+<html>
+<body>
+<h1 align=center>time reamins
+<span id="s1"> 1:00 min </span></h1>
+
+<input type="button" value="start" onclick="start()";/>
+</body>
+
+<script>
+function start()
+{
+var counter=60;
+setInterval( function (){
+counter--;
+if(counter>=0)
+{
+var res=document.getElementById("s1");
+res.innerHTML="00:"+ counter+"sec";
+
+}
+if(counter==-1)
+{
+clearInterval(counter);
+}
+},1000);
+}
+
+</script>
+</html>

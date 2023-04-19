@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\bin\Debug\two string  parameter anagrams.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\bin\Debug\two string  parameter anagrams.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\bin\Debug\two string  parameter anagrams.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\obj\Debug\two string  parameter anagrams.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\obj\Debug\two string  parameter anagrams.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\obj\Debug\two string  parameter anagrams.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\obj\Debug\two string  parameter anagrams.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two string  parameter anagrams\two string  parameter anagrams\obj\Debug\two string  parameter anagrams.pdb

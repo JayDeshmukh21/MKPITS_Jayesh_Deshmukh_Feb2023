@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\bin\Debug\go to statement.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\bin\Debug\go to statement.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\bin\Debug\go to statement.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\obj\Debug\go to statement.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\obj\Debug\go to statement.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\obj\Debug\go to statement.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\obj\Debug\go to statement.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\go to statement\go to statement\obj\Debug\go to statement.pdb

@@ -1,0 +1,30 @@
+<html>
+<body>
+num1=<input type="text" id ="n1" /><br><br>
+num2=<input type="text" id ="n2" /><br><br>
+num3=<input type="text" id ="n3" /><br><br>
+<input type ="button" value="ok" onclick="check()"; />
+
+</body>
+<script language="javascript">
+function check()
+{
+var num1,num2,num3;
+num1=document.getElementById("n1").value;
+num2=document.getElementById("n2").value;
+num3=document.getElementById("n3").value;
+if(num1<num2  &&  num1<num3)
+{
+ alert("number1 is smallest");
+}
+else if(num2<num3)
+{
+alert("number2 is smallest");
+}
+else
+{
+alert("number3 is smallest ");
+}
+}
+</script>
+</html>

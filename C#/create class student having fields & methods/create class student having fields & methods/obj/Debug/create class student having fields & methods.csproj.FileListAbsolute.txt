@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\bin\Debug\create class student having fields & methods.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\bin\Debug\create class student having fields & methods.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\bin\Debug\create class student having fields & methods.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\obj\Debug\create class student having fields & methods.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\obj\Debug\create class student having fields & methods.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\obj\Debug\create class student having fields & methods.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\obj\Debug\create class student having fields & methods.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\create class student having fields & methods\create class student having fields & methods\obj\Debug\create class student having fields & methods.pdb

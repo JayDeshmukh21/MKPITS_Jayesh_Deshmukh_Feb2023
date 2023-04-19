@@ -1,0 +1,37 @@
+<html>
+<body>
+enter number:<input type="text" id="n1"/><br><br>
+<input type="button" value="show" onclick="check()"; />
+
+</body>
+
+<script>
+function check()
+{
+	for (var x=0; x<=15; x++) 
+{
+        if (x === 0)
+	 {
+          document.write(x +  " is even");
+           document.write("<br>");
+        }
+        else if (x % 2 === 0) 
+	{
+          document.write(x + " is even"); 
+		document.write("<br>");
+           
+        }
+        else 
+	{
+           document.write(x + " is odd");
+           document.write("<br>");
+
+        }
+}
+
+}
+
+</script>
+
+
+</html>

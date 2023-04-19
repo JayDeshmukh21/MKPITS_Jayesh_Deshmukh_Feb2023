@@ -1,0 +1,43 @@
+<html>
+<body>
+maths:<input type="text"  id="n1" /><br><br>
+phy :<input type="text"  id="n2" /><br><br>
+chem :<input type="text"  id="n3" /><br><br>
+<input type ="button" value="result" onclick ="check()"; /><br><br>
+
+<span id= "s1">total:</span><br><br>
+<span id= "s2">percentage:</span><br><br>
+<span id= "s3">grade:</span><br><br>
+
+</body>
+<script language ="javascript">
+function check()
+{
+var maths,phy,chem,total,per;
+
+maths=parseInt(document.getElementById("n1").value);
+phy=parseInt(document.getElementById("n2").value);
+chem=parseInt(document.getElementById("n3").value);
+total=maths+phy+chem;
+document.getElementById("s1").innerHTML="total:"+total;
+per=parseFloat(total*0.3);
+document.getElementById("s2").innerHTML="per="+per;
+ 
+if(per>=75)
+{
+   document.getElementById("s3").innerHTML="grade =distinct";
+
+}
+else if(per>=60 &&  per<75)
+{
+document.getElementById("s3").innerHTML="grade: first";
+}
+else
+{
+document.getElementById("s3").innerHTML="grade=fail";
+}
+
+}
+
+</script>
+</html>

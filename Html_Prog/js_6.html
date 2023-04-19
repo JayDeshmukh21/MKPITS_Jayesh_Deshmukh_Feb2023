@@ -1,0 +1,43 @@
+
+<html>
+   
+   <body>
+    Account No: <input type="text" id="num1" /> <br> <br>
+    Initial balance : <input type="text" id="num2" /> <br> <br>
+    Amount  : <input type="text" id="num3" /> <br> <br>
+    <input type="button" value="Deposit" onclick="Deposit();" />
+    <input type="button" value="Withdrawl" onclick="Withdrawl();" />
+    <br> <br> <span id="abc">  Balance is : </span>
+</body>
+<script language="javascript">
+    function Deposit()
+     {
+   var Accountno, Initailbalance, Amount, Deposit, Withdrawl;
+        Accountno = (document.getElementById("num1").value);
+       Initailbalance = parseInt(document.getElementById("num2").value);
+        Amount = parseInt(document.getElementById("num3").value);
+        Deposit = Initailbalance + Amount;
+  document.getElementById("abc").innerHTML="Deposit amount is: "+Deposit;      
+}
+function Withdrawl()
+{
+   var Accountno, Initailbalance, Amount, Deposit, Withdrawl;
+        Accountno = (document.getElementById("num1").value);
+       Initailbalance = parseInt(document.getElementById("num2").value);
+        Amount = parseInt(document.getElementById("num3").value);
+        Withdrawl=Initailbalance - Amount;
+  document.getElementById("abc").innerHTML="Withdrawl amount is: "+Withdrawl;      
+}
+
+</script>
+</html>
+
+
+
+
+
+
+
+
+
+

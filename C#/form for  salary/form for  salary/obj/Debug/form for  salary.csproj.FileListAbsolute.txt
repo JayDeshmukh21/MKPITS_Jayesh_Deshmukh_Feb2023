@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\bin\Debug\form for  salary.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\bin\Debug\form for  salary.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\bin\Debug\form for  salary.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form_for__salary.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form_for__salary.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for  salary\form for  salary\obj\Debug\form for  salary.pdb

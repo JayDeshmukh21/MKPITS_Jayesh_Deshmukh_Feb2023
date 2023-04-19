@@ -1,0 +1,29 @@
+<html>
+<body>
+num=<input type="text" name="n1"/><br><br>
+start=<input type="text" name="s1"/><br><br>
+end=<input type="text" name="e1"/><br><br>
+<input type="button" value="check" onclick="CheckinRange(document.getElementsByName('n1')[0].value,
+document.getElementsByName('s1')[0].value,
+document.getElementsByName('e1')[0].value) ";/>
+</body>
+
+<script language="javascript">
+function CheckinRange()
+{
+var num,start,end;
+
+
+if((num >= start) && (num <= end))
+{
+alert("number is in range");
+}
+else
+{
+alert("number is not in range");
+}
+
+
+}
+</script>
+</html>

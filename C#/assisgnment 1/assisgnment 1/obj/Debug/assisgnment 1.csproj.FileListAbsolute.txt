@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\bin\Debug\assisgnment 1.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\bin\Debug\assisgnment 1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\bin\Debug\assisgnment 1.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment_1.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment_1.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assisgnment 1\assisgnment 1\obj\Debug\assisgnment 1.pdb

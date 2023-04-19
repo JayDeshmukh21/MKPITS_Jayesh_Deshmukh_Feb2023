@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\bin\Debug\prime no with parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\bin\Debug\prime no with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\bin\Debug\prime no with parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\obj\Debug\prime no with parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\obj\Debug\prime no with parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\obj\Debug\prime no with parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\obj\Debug\prime no with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime no with parameter\prime no with parameter\obj\Debug\prime no with parameter.pdb

@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\bin\Debug\Forms for pyramid.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\bin\Debug\Forms for pyramid.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\bin\Debug\Forms for pyramid.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms_for_pyramid.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms_for_pyramid.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\Forms for pyramid\Forms for pyramid\obj\Debug\Forms for pyramid.pdb

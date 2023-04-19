@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\bin\Debug\customer with field method & parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\bin\Debug\customer with field method & parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\bin\Debug\customer with field method & parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\obj\Debug\customer with field method & parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\obj\Debug\customer with field method & parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\obj\Debug\customer with field method & parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\obj\Debug\customer with field method & parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\customer with field method & parameter\customer with field method & parameter\obj\Debug\customer with field method & parameter.pdb

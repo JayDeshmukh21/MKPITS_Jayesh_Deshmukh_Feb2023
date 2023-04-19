@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\bin\Debug\rough.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\bin\Debug\rough.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\bin\Debug\rough.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\obj\Debug\rough.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\obj\Debug\rough.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\obj\Debug\rough.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\obj\Debug\rough.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rough\rough\obj\Debug\rough.pdb

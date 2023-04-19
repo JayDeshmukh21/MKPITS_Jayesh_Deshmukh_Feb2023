@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\bin\Debug\inheriting a new child class from person class.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\bin\Debug\inheriting a new child class from person class.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\bin\Debug\inheriting a new child class from person class.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\obj\Debug\inheriting a new child class from person class.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\obj\Debug\inheriting a new child class from person class.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\obj\Debug\inheriting a new child class from person class.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\obj\Debug\inheriting a new child class from person class.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\inheriting a new child class from person class\inheriting a new child class from person class\obj\Debug\inheriting a new child class from person class.pdb

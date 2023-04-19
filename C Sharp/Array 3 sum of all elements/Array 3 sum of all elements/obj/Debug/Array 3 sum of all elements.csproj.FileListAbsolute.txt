@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\bin\Debug\Array 3 sum of all elements.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\bin\Debug\Array 3 sum of all elements.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\bin\Debug\Array 3 sum of all elements.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\obj\Debug\Array 3 sum of all elements.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\obj\Debug\Array 3 sum of all elements.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\obj\Debug\Array 3 sum of all elements.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\obj\Debug\Array 3 sum of all elements.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 3 sum of all elements\Array 3 sum of all elements\obj\Debug\Array 3 sum of all elements.pdb

@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

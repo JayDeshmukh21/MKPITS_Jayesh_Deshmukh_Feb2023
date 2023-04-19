@@ -1,0 +1,26 @@
+<html>
+
+<body>
+Enter height=<input type="text" id="h" /><br><br>
+Enter width=<input type="text" id="w" /><br><br>
+
+<input type="button" value="area" onclick="calculatearea();" /><br><br>
+
+<span id="res">Area =</span>
+
+</body>
+
+<script language="javascript">
+function calculatearea()
+{
+	var height,width,area;
+	
+height=parseInt(document.getElementById("h").value);
+width=parseInt(document.getElementById("w").value);
+
+area=height*width
+document.getElementById("res").innerHTML="Area ="+area;
+}
+
+</script>
+</html>

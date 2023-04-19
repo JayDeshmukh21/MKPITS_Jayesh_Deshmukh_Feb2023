@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\bin\Debug\2 2 dimension.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\bin\Debug\2 2 dimension.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\bin\Debug\2 2 dimension.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\obj\Debug\2 2 dimension.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\obj\Debug\2 2 dimension.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\obj\Debug\2 2 dimension.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\obj\Debug\2 2 dimension.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\2 2 dimension\2 2 dimension\obj\Debug\2 2 dimension.pdb

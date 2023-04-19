@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\bin\Debug\Array 6 Avg of all element in an array.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\bin\Debug\Array 6 Avg of all element in an array.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\bin\Debug\Array 6 Avg of all element in an array.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\obj\Debug\Array 6 Avg of all element in an array.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\obj\Debug\Array 6 Avg of all element in an array.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\obj\Debug\Array 6 Avg of all element in an array.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\obj\Debug\Array 6 Avg of all element in an array.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 6 Avg of all element in an array\Array 6 Avg of all element in an array\obj\Debug\Array 6 Avg of all element in an array.pdb

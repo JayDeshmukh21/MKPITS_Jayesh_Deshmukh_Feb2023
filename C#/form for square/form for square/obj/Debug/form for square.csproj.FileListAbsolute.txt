@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\bin\Debug\form for square.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\bin\Debug\form for square.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\bin\Debug\form for square.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form_for_square.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form_for_square.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for square\form for square\obj\Debug\form for square.pdb

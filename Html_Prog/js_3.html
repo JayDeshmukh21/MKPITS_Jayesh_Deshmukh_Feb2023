@@ -1,0 +1,31 @@
+
+
+<html>
+<body>
+	maths:<input type="text" id="mat"/ > <br><br>
+	physics:<input type="text" id="phy"/ > <br><br>
+	chemistry: <input type="text" id="chem"/ > <br><br>
+	<input type = button value ="result" onclick ="result();" />
+<br>
+<br>
+   <span id = "tot">total:</span><br><br>
+ <span id = "per">percentage:</span><br><br>
+
+</body>
+<script language ="javascript">
+function result()
+{
+	var maths1,physics1,chemistry1,total1,percentage1;
+	maths1=parseInt(document.getElementById("mat").value);
+	physics1=parseInt(document.getElementById("phy").value);
+	chemistry1=parseInt(document.getElementById("chem").value);
+   total1= maths1+physics1+chemistry1;
+percentage1=total1/300*100
+	document.getElementById("tot").innerHTML ="total ="  + total1;
+	document.getElementById("per").innerHTML ="percentage ="  + percentage1;
+}
+
+
+
+</script>
+</html>

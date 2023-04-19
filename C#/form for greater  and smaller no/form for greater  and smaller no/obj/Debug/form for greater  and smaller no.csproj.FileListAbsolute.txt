@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\bin\Debug\form for greater  and smaller no.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\bin\Debug\form for greater  and smaller no.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\bin\Debug\form for greater  and smaller no.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form_for_greater__and_smaller_no.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form_for_greater__and_smaller_no.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for greater  and smaller no\form for greater  and smaller no\obj\Debug\form for greater  and smaller no.pdb

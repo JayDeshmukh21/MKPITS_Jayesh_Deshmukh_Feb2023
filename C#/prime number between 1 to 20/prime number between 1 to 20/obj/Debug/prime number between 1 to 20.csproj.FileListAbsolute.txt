@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\bin\Debug\prime number between 1 to 20.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\bin\Debug\prime number between 1 to 20.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\bin\Debug\prime number between 1 to 20.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\obj\Debug\prime number between 1 to 20.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\obj\Debug\prime number between 1 to 20.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\obj\Debug\prime number between 1 to 20.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\obj\Debug\prime number between 1 to 20.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\prime number between 1 to 20\prime number between 1 to 20\obj\Debug\prime number between 1 to 20.pdb

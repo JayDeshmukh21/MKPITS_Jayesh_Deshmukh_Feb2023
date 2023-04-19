@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\bin\Debug\product with this keyword.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\bin\Debug\product with this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\bin\Debug\product with this keyword.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\obj\Debug\product with this keyword.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\obj\Debug\product with this keyword.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\obj\Debug\product with this keyword.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\obj\Debug\product with this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product with this keyword\product with this keyword\obj\Debug\product with this keyword.pdb

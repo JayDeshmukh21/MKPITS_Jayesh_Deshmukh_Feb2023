@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\bin\Debug\indexof method array.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\bin\Debug\indexof method array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\bin\Debug\indexof method array.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\obj\Debug\indexof method array.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\obj\Debug\indexof method array.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\obj\Debug\indexof method array.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\obj\Debug\indexof method array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\indexof method array\indexof method array\obj\Debug\indexof method array.pdb

@@ -1,0 +1,21 @@
+<html>
+<body>
+year =<input type="text" name="n1"/><br><br>
+<input type = "button" value="result" onclick="LeapYear(document.getElementsByName('n1')[0].value)";/>
+</body>
+<script language="javascript">
+function LeapYear(year)
+{
+var year;
+
+if((year%4 == 0) && (year%100 != 0) || (year%400 == 0))
+{
+alert(`Year  is a leap year`);
+}
+else{
+alert(`Year  is not a leap year`);
+}
+
+}
+</script>
+</html>

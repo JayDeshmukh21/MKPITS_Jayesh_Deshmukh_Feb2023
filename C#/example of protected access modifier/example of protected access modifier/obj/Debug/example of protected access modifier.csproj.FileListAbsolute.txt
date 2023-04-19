@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\bin\Debug\example of protected access modifier.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\bin\Debug\example of protected access modifier.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\bin\Debug\example of protected access modifier.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\obj\Debug\example of protected access modifier.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\obj\Debug\example of protected access modifier.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\obj\Debug\example of protected access modifier.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\obj\Debug\example of protected access modifier.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of protected access modifier\example of protected access modifier\obj\Debug\example of protected access modifier.pdb

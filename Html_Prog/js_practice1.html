@@ -1,0 +1,27 @@
+<html>
+<body>
+num1=<input type ="text" id="num"  /><br><br>
+<input type = button value="result" onclick="result();">
+<br>
+<br>
+
+
+</body>
+
+<script langauge = "javascript">
+function result()
+{
+var num1;
+num1=parseInt(document.getElementById("num").value);
+if(isNaN(num1))
+{
+alert("(num) is not number");
+}
+else
+{
+alert("(num) is a valid number");
+}
+
+}
+</script>
+</html>

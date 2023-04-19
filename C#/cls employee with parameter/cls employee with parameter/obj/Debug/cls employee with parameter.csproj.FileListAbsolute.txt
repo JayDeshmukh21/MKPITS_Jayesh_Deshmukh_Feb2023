@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\bin\Debug\cls employee with parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\bin\Debug\cls employee with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\bin\Debug\cls employee with parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\obj\Debug\cls employee with parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\obj\Debug\cls employee with parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\obj\Debug\cls employee with parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\obj\Debug\cls employee with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employee with parameter\cls employee with parameter\obj\Debug\cls employee with parameter.pdb

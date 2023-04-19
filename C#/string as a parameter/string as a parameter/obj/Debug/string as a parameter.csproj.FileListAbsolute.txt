@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\bin\Debug\string as a parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\bin\Debug\string as a parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\bin\Debug\string as a parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\obj\Debug\string as a parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\obj\Debug\string as a parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\obj\Debug\string as a parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\obj\Debug\string as a parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string as a parameter\string as a parameter\obj\Debug\string as a parameter.pdb

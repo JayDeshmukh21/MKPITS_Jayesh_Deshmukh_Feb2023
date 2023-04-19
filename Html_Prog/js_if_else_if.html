@@ -1,0 +1,29 @@
+<html>
+
+<body>
+num1=<input type ="text" id ="n1" /><br><br>
+num2=<input type ="text" id ="n2" /><br><br>
+<input type="button" value="ok" onclick="check()"; />
+<br>
+</body>
+<script language ="javascript">
+function check()
+{
+    var num1,num2;
+  num1=document.getElementById("n1").value;
+  num2=document.getElementById("n2").value;
+if(num1==num2)
+{ 
+alert("bothnumbers are same");
+}
+else if(num1>num2)
+{
+alert("num1 is greater");
+}
+else 
+{
+alert("num2 is greater");
+}
+}
+</script>
+</html>

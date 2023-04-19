@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\bin\Debug\pass by value.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\bin\Debug\pass by value.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\bin\Debug\pass by value.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\obj\Debug\pass by value.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\obj\Debug\pass by value.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\obj\Debug\pass by value.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\obj\Debug\pass by value.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\pass by value\pass by value\obj\Debug\pass by value.pdb

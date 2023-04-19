@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\bin\Debug\with parameter square.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\bin\Debug\with parameter square.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\bin\Debug\with parameter square.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\obj\Debug\with parameter square.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\obj\Debug\with parameter square.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\obj\Debug\with parameter square.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\obj\Debug\with parameter square.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with parameter square\with parameter square\obj\Debug\with parameter square.pdb

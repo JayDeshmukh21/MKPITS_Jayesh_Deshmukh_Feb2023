@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\bin\Debug\addition on 2 no using array.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\bin\Debug\addition on 2 no using array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\bin\Debug\addition on 2 no using array.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\obj\Debug\addition on 2 no using array.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\obj\Debug\addition on 2 no using array.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\obj\Debug\addition on 2 no using array.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\obj\Debug\addition on 2 no using array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition on 2 no using array\addition on 2 no using array\obj\Debug\addition on 2 no using array.pdb

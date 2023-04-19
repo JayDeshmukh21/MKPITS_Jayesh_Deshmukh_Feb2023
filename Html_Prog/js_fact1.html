@@ -1,0 +1,20 @@
+<html>
+enter number:<input type="text" id="n1" /><br><br>
+<input type="button" value="factorial" onclick="factorial()"; />
+
+
+<script>
+function factorial()
+{
+var num=parseInt(document.getElementById("n1").value);
+var fact=1
+while(num>0)
+{
+fact=fact*num;
+num=num-1;
+}
+
+alert("factorial of number is " + fact);
+}
+</script>
+</html>

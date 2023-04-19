@@ -1,0 +1,31 @@
+<html>
+
+<body>
+Firstname:<input type= text id="fname" /><br><br>
+Lastname:<input type= text id="lname" /><br><br>
+Email<input type= text id="email" /><br><br>
+Mobileno<input type= text id="mobile" /><br><br>
+<input type="button" value="submit" onclick="submit()"; />
+<br>
+<span id="aa">Firstname:</span><br>
+<span id="bb">Lastname:</span><br>
+<span id="cc">Email:</span><br>
+<span id="dd">Mobile no:</span><br>
+</body>
+<script language ="javascript">
+function submit()
+{
+ var Firstname,Lastname,Email,Mobileno;
+Firstname =(document.getElementById("fname").value);
+Lastname =(document.getElementById("lname").value);
+Email=(document.getElementById("email").value);
+Mobileno =(document.getElementById("mobile").value);
+
+document.getElementById("aa").innerHTML="Firstname =" +Firstname;
+document.getElementById("bb").innerHTML="Lastname =" +Lastname;
+document.getElementById("cc").innerHTML="Email =" +Email;
+document.getElementById("dd").innerHTML="Mobile no =" +Mobileno;
+
+}
+</script>
+</html>

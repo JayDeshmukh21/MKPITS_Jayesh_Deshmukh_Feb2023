@@ -1,0 +1,61 @@
+a{
+text-decoration:none;
+color:black;
+font-size:22px;
+font-family:"Poppins",sans-serif;
+}
+ td{
+word-spacing:40px;
+padding-top: 12px
+padding-left:5px;
+
+}
+.main{
+color:white;
+background-attachement:fixed;
+background-image:url('mkpitsimg.jpg');
+padding:93px 13px 151px 19px;
+margin: 7px-25px 11px-8px;
+
+}
+.main h1{
+font-size:60px
+margin: 10px- 27px 3px 55px;
+font-family:"Raleway",sans-serif
+}
+img{
+margin: 10px 2px 3px 56px;
+font-size:25px;
+
+}
+
+
+.main p{
+margin: 10px- 27px 3px 55px;
+font-size:25px;
+font-family:"Raleway",sans-serif;
+    margin-top: -50px;
+}
+.submain h1{
+word-spacing:2px;
+padding-top: 26px;
+padding-left: 45px;
+}
+.submain p{
+word-spacing:2px;
+text-align:justify;
+padding-left: 50px;
+}
+
+.submain ul{
+word-spacing:2px;
+text-align:justify;
+padding-left: 60px;
+}
+
+.submain img{
+width: 549px;
+margin-bottom: 345px;
+padding-right: 40;
+image-align:center;
+}

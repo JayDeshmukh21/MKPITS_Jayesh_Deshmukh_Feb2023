@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\bin\Debug\OOPS Inheritance 3.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\bin\Debug\OOPS Inheritance 3.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\bin\Debug\OOPS Inheritance 3.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\obj\Debug\OOPS Inheritance 3.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\obj\Debug\OOPS Inheritance 3.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\obj\Debug\OOPS Inheritance 3.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\obj\Debug\OOPS Inheritance 3.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\OOPS Inheritance 3\OOPS Inheritance 3\obj\Debug\OOPS Inheritance 3.pdb

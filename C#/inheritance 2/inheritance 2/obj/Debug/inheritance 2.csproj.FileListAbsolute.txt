@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\bin\Debug\inheritance 2.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\bin\Debug\inheritance 2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\bin\Debug\inheritance 2.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\obj\Debug\inheritance 2.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\obj\Debug\inheritance 2.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\obj\Debug\inheritance 2.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\obj\Debug\inheritance 2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\inheritance 2\inheritance 2\obj\Debug\inheritance 2.pdb

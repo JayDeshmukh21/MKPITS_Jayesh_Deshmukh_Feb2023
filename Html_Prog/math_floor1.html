@@ -1,0 +1,25 @@
+<html>
+<body>
+enter number:<input type="text" id="n1"/><br><br>
+<input type="button" value="show" onclick="check()"; />
+
+</body>
+
+<script>
+function check()
+{
+
+var num=document.getElementById("n1").value;
+
+var digit=num%10;
+var digit2=Math.floor(num/10)%10;
+var digit3=Math.floor(num/100);
+var revnumber=(digit*100)+(digit2*10)+digit3;
+
+document.write("rev number "+ revnumber)
+}
+
+</script>
+
+
+</html>

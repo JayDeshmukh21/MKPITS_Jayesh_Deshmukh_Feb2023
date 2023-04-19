@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\bin\Debug\forms for add sub.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\bin\Debug\forms for add sub.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\bin\Debug\forms for add sub.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms_for_add_sub.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms_for_add_sub.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\forms for add sub\forms for add sub\obj\Debug\forms for add sub.pdb

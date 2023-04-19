@@ -1,0 +1,28 @@
+<html>
+<body>
+ number1=<input type = "text" id="numm1" /><br><br>
+ number2=<input type = "text" id="numm2" /><br><br>
+<input type = "button" value = "show greater" onclick="Greater();"/>
+<br>
+<span id = "res">result: </span>
+</body>
+
+<script language="javascript">
+function Greater()
+{
+var number1,number2;
+number1 =document.getElementById("numm1").value;
+number2 =document.getElementById("numm2").value;
+if(number1 > number2)
+{
+ 
+document.getElementById("res").innerHTML="num" +number1+ " is greater";
+}
+else
+{
+ 
+document.getElementById("res").innerHTML="num" +number2+ " is greater";
+}
+}
+</script>
+</html>

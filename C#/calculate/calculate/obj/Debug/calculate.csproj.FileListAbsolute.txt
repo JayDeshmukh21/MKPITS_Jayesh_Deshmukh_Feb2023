@@ -1,0 +1,13 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\bin\Debug\calculate.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\bin\Debug\calculate.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\bin\Debug\calculate.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.Form2.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculate\calculate\obj\Debug\calculate.Form3.resources

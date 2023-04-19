@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\bin\Debug\class  fields & method with parameters.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\bin\Debug\class  fields & method with parameters.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\bin\Debug\class  fields & method with parameters.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\obj\Debug\class  fields & method with parameters.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\obj\Debug\class  fields & method with parameters.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\obj\Debug\class  fields & method with parameters.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\obj\Debug\class  fields & method with parameters.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class  fields & method with parameters\class  fields & method with parameters\obj\Debug\class  fields & method with parameters.pdb

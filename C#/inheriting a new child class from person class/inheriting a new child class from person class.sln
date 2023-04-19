@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheriting a new child class from person class", "inheriting a new child class from person class\inheriting a new child class from person class.csproj", "{18B66BFA-B825-40C8-9BE7-95DF7D412247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B66BFA-B825-40C8-9BE7-95DF7D412247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B66BFA-B825-40C8-9BE7-95DF7D412247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B66BFA-B825-40C8-9BE7-95DF7D412247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B66BFA-B825-40C8-9BE7-95DF7D412247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96C1F92-5ADC-4428-BD87-C53544743474}
+	EndGlobalSection
+EndGlobal

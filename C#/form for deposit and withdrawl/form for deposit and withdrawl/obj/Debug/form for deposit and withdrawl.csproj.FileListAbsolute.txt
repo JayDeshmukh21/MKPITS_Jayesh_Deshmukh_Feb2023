@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form_for_deposit_and_withdrawl.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form_for_deposit_and_withdrawl.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\bin\Debug\form for deposit and withdrawl.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\bin\Debug\form for deposit and withdrawl.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\bin\Debug\form for deposit and withdrawl.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for deposit and withdrawl\form for deposit and withdrawl\obj\Debug\form for deposit and withdrawl.pdb

@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\bin\Debug\multiplication of array.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\bin\Debug\multiplication of array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\bin\Debug\multiplication of array.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\obj\Debug\multiplication of array.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\obj\Debug\multiplication of array.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\obj\Debug\multiplication of array.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\obj\Debug\multiplication of array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\multiplication of array\multiplication of array\obj\Debug\multiplication of array.pdb

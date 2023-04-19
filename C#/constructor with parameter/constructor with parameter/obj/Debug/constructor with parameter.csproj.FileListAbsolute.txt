@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\bin\Debug\constructor with parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\bin\Debug\constructor with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\bin\Debug\constructor with parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\obj\Debug\constructor with parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\obj\Debug\constructor with parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\obj\Debug\constructor with parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\obj\Debug\constructor with parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\constructor with parameter\constructor with parameter\obj\Debug\constructor with parameter.pdb

@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class_calci.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class_calci.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\bin\Debug\class calci.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\bin\Debug\class calci.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\bin\Debug\class calci.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\class calci\class calci\obj\Debug\class calci.pdb

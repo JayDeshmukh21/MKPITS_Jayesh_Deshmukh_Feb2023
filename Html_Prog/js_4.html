@@ -1,0 +1,20 @@
+<html>
+        <body>
+               product name:<input type=text id="pro"/><br><br>
+               rate:<input type=text id="rat"/><br><br>
+               quantity:<input type=text id="quan"/><br><br>
+               <input type=button value="ok" onclick="totalAmount()";/><br><br>
+               <span id="abc">totalamount:</span>              
+        </body>
+        <script language="javascript">
+                 function totalAmount() 
+                                    {
+                                            var rate,quality,totalamount;
+                                            rate=parseInt(document.getElementById("rat").value);
+                                            quantity=parseInt(document.getElementById("quan").value);   
+                                              
+totalamount=rate*quantity;                                       
+                                            document.getElementById("abc").innerHTML="totalamount=" + totalamount;
+                                          }
+        </script>
+</html>

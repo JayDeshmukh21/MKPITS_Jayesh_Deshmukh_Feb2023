@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\bin\Debug\cls employe  parameter & without parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\bin\Debug\cls employe  parameter & without parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\bin\Debug\cls employe  parameter & without parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\obj\Debug\cls employe  parameter & without parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\obj\Debug\cls employe  parameter & without parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\obj\Debug\cls employe  parameter & without parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\obj\Debug\cls employe  parameter & without parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\cls employe  parameter & without parameter\cls employe  parameter & without parameter\obj\Debug\cls employe  parameter & without parameter.pdb

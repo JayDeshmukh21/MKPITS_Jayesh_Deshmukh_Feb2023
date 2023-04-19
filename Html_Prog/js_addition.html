@@ -1,0 +1,55 @@
+<html>
+<h1 align = "center">MKPITS</h1>
+<hr>
+<body>
+enter number1 = <input type = "text"  id = "num1" /><br><br>
+enter number2 = <input type = "text"  id = "num2" /><br><br>
+<input type = button  value ="add" onclick = "addNumber()"; / >
+<input type = button  value ="sub" onclick = "subNumber()"; / >
+<input type = button  value ="mul" onclick = "mulNumber()"; / >
+<input type = button  value ="div" onclick = "divNumber()"; / >
+
+
+
+</body>
+<script language ="javascript">
+function addNumber()
+
+{
+    var number1, number2,result;
+    number1=parseInt(document.getElementById("num1").value);
+    number2=parseInt(document.getElementById("num2").value);
+   result = number1 + number2;
+    alert ("addition is " + result);
+    }
+
+function subNumber()
+
+{
+    var number1, number2,result;
+    number1=parseInt(document.getElementById("num1").value);
+    number2=parseInt(document.getElementById("num2").value);
+   result = number1 - number2;
+    alert ("subtraction is " + result);
+    }
+
+function mulNumber()
+
+{
+    var number1, number2,result;
+    number1=parseInt(document.getElementById("num1").value);
+    number2=parseInt(document.getElementById("num2").value);
+   result = number1 * number2;
+    alert ("multiplication is " + result);
+    }
+function divNumber()
+
+{
+    var number1, number2,result;
+    number1=parseInt(document.getElementById("num1").value);
+    number2=parseInt(document.getElementById("num2").value);
+   result = number1 / number2;
+    alert ("division is " + result);
+    }
+</script>
+</html>

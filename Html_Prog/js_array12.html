@@ -1,0 +1,32 @@
+<html>
+<body>
+<form method=post action="aboutus_pg.html" onsubmit="return check()" />
+enter username:<input type="text" id="un" /><br><br>
+enter password:<input type="password" id="up" /><br><br>
+
+<input type="submit" value="submit" />
+</form>
+</body>
+<script>
+function check()
+{
+	var username=document.getElementById("un").value;
+	var password=document.getElementById("up").value;
+if(username=="" || password=="")
+{
+	alert("please enter username or password");
+    return false;
+}
+
+else if(password.length<6)
+
+{
+ alert("password must be atleast 6 character");
+ return false;
+}
+
+
+}
+
+</script>
+</html>

@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\bin\Debug\call by reference.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\bin\Debug\call by reference.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\bin\Debug\call by reference.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\obj\Debug\call by reference.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\obj\Debug\call by reference.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\obj\Debug\call by reference.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\obj\Debug\call by reference.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\call by reference\call by reference\obj\Debug\call by reference.pdb

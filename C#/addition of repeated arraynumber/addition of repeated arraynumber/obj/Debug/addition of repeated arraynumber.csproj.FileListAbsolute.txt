@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\bin\Debug\addition of repeated arraynumber.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\bin\Debug\addition of repeated arraynumber.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\bin\Debug\addition of repeated arraynumber.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\obj\Debug\addition of repeated arraynumber.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\obj\Debug\addition of repeated arraynumber.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\obj\Debug\addition of repeated arraynumber.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\obj\Debug\addition of repeated arraynumber.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\addition of repeated arraynumber\addition of repeated arraynumber\obj\Debug\addition of repeated arraynumber.pdb

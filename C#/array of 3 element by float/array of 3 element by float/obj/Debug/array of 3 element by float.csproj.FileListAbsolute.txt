@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\bin\Debug\array of 3 element by float.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\bin\Debug\array of 3 element by float.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\bin\Debug\array of 3 element by float.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\obj\Debug\array of 3 element by float.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\obj\Debug\array of 3 element by float.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\obj\Debug\array of 3 element by float.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\obj\Debug\array of 3 element by float.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 element by float\array of 3 element by float\obj\Debug\array of 3 element by float.pdb

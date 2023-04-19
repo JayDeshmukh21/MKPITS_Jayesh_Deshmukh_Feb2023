@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\bin\Debug\product constructor with&without paramtr.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\bin\Debug\product constructor with&without paramtr.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\bin\Debug\product constructor with&without paramtr.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\obj\Debug\product constructor with&without paramtr.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\obj\Debug\product constructor with&without paramtr.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\obj\Debug\product constructor with&without paramtr.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\obj\Debug\product constructor with&without paramtr.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\product constructor with&without paramtr\product constructor with&without paramtr\obj\Debug\product constructor with&without paramtr.pdb

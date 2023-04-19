@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\bin\Debug\form for prime number.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\bin\Debug\form for prime number.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\bin\Debug\form for prime number.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form_for_prime_number.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form_for_prime_number.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for prime number\form for prime number\obj\Debug\form for prime number.pdb

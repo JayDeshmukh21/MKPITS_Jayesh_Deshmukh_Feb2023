@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\bin\Debug\Array 8 rotate elements of an array to right.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\bin\Debug\Array 8 rotate elements of an array to right.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\bin\Debug\Array 8 rotate elements of an array to right.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\obj\Debug\Array 8 rotate elements of an array to right.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\obj\Debug\Array 8 rotate elements of an array to right.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\obj\Debug\Array 8 rotate elements of an array to right.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\obj\Debug\Array 8 rotate elements of an array to right.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 8 rotate elements of an array to right\Array 8 rotate elements of an array to right\obj\Debug\Array 8 rotate elements of an array to right.pdb

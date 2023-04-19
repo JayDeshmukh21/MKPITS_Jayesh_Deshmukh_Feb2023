@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\bin\Debug\method returning  an array.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\bin\Debug\method returning  an array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\bin\Debug\method returning  an array.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\obj\Debug\method returning  an array.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\obj\Debug\method returning  an array.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\obj\Debug\method returning  an array.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\obj\Debug\method returning  an array.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\method returning  an array\method returning  an array\obj\Debug\method returning  an array.pdb

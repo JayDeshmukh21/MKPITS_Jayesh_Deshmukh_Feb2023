@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\bin\Debug\single level inheritance field only.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\bin\Debug\single level inheritance field only.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\bin\Debug\single level inheritance field only.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\obj\Debug\single level inheritance field only.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\obj\Debug\single level inheritance field only.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\obj\Debug\single level inheritance field only.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\obj\Debug\single level inheritance field only.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single level inheritance field only\single level inheritance field only\obj\Debug\single level inheritance field only.pdb

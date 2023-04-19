@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "product field & method with parameter", "product field & method with parameter\product field & method with parameter.csproj", "{3035855F-4535-40BD-86A9-77A41B6E7BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3035855F-4535-40BD-86A9-77A41B6E7BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3035855F-4535-40BD-86A9-77A41B6E7BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3035855F-4535-40BD-86A9-77A41B6E7BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3035855F-4535-40BD-86A9-77A41B6E7BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EF9700-66B9-4BEA-8C57-60CAD8620BDF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\bin\Debug\Array 7 find 2nd smallest no.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\bin\Debug\Array 7 find 2nd smallest no.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\bin\Debug\Array 7 find 2nd smallest no.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\obj\Debug\Array 7 find 2nd smallest no.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\obj\Debug\Array 7 find 2nd smallest no.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\obj\Debug\Array 7 find 2nd smallest no.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\obj\Debug\Array 7 find 2nd smallest no.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 7 find 2nd smallest no\Array 7 find 2nd smallest no\obj\Debug\Array 7 find 2nd smallest no.pdb

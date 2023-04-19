@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\bin\Debug\with class calculator.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\bin\Debug\with class calculator.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\bin\Debug\with class calculator.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with_class_calculator.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with_class_calculator.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\with class calculator\with class calculator\obj\Debug\with class calculator.pdb

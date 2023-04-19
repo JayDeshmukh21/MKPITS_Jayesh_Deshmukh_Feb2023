@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\bin\Debug\assign sum of two number.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\bin\Debug\assign sum of two number.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\bin\Debug\assign sum of two number.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\obj\Debug\assign sum of two number.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\obj\Debug\assign sum of two number.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\obj\Debug\assign sum of two number.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\obj\Debug\assign sum of two number.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\assign sum of two number\assign sum of two number\obj\Debug\assign sum of two number.pdb

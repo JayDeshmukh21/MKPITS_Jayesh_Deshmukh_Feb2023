@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\bin\Debug\calculator form.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\bin\Debug\calculator form.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\bin\Debug\calculator form.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator_form.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator_form.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\calculator form\calculator form\obj\Debug\calculator form.pdb

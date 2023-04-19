@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\bin\Debug\rank and length.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\bin\Debug\rank and length.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\bin\Debug\rank and length.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\obj\Debug\rank and length.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\obj\Debug\rank and length.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\obj\Debug\rank and length.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\obj\Debug\rank and length.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\rank and length\rank and length\obj\Debug\rank and length.pdb

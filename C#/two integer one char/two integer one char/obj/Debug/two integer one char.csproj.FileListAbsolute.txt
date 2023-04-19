@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\bin\Debug\two integer one char.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\bin\Debug\two integer one char.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\bin\Debug\two integer one char.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\obj\Debug\two integer one char.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\obj\Debug\two integer one char.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\obj\Debug\two integer one char.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\obj\Debug\two integer one char.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\two integer one char\two integer one char\obj\Debug\two integer one char.pdb

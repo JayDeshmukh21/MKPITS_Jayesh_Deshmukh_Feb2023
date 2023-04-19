@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\bin\Debug\example of this keyword.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\bin\Debug\example of this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\bin\Debug\example of this keyword.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\obj\Debug\example of this keyword.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\obj\Debug\example of this keyword.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\obj\Debug\example of this keyword.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\obj\Debug\example of this keyword.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\example of this keyword\example of this keyword\obj\Debug\example of this keyword.pdb

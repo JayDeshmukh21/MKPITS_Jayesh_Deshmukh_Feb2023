@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\bin\Debug\accept the value from user parameter.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\bin\Debug\accept the value from user parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\bin\Debug\accept the value from user parameter.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\obj\Debug\accept the value from user parameter.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\obj\Debug\accept the value from user parameter.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\obj\Debug\accept the value from user parameter.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\obj\Debug\accept the value from user parameter.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\accept the value from user parameter\accept the value from user parameter\obj\Debug\accept the value from user parameter.pdb

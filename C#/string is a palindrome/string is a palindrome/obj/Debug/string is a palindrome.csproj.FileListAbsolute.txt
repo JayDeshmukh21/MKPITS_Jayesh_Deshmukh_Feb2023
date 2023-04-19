@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\bin\Debug\string is a palindrome.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\bin\Debug\string is a palindrome.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\bin\Debug\string is a palindrome.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\obj\Debug\string is a palindrome.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\obj\Debug\string is a palindrome.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\obj\Debug\string is a palindrome.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\obj\Debug\string is a palindrome.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\string is a palindrome\string is a palindrome\obj\Debug\string is a palindrome.pdb

@@ -1,0 +1,20 @@
+<html>
+<body>
+celsius=<input type="text" id="n1" /><br><br>
+
+<input type="button" value="ok" onclick="check();"/><br><br>
+<span id="s1">Celsius to Fahrenheit:</span>
+
+</body>
+<script>
+function check()
+{
+var celsius=parseInt(document.getElementById("n1").value);
+var fahrenheit=(celsius *1.8)+32;
+
+
+document.getElementById("s1").innerHTML="Celsius to Fahrenheit:" + fahrenheit;
+
+}
+</script>
+</html>

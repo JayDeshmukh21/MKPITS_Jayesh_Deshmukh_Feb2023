@@ -1,0 +1,15 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\bin\Debug\net6.0\1 hello program.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\bin\Debug\net6.0\1 hello program.deps.json
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\bin\Debug\net6.0\1 hello program.runtimeconfig.json
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\bin\Debug\net6.0\1 hello program.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\bin\Debug\net6.0\1 hello program.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.AssemblyInfoInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.AssemblyInfo.cs
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\refint\1 hello program.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\1 hello program.genruntimeconfig.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\1 hello program\1 hello program\obj\Debug\net6.0\ref\1 hello program.dll

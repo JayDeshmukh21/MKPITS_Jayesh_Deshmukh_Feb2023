@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\bin\Debug\heriarchical inheritance vehicle.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\bin\Debug\heriarchical inheritance vehicle.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\bin\Debug\heriarchical inheritance vehicle.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\obj\Debug\heriarchical inheritance vehicle.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\obj\Debug\heriarchical inheritance vehicle.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\obj\Debug\heriarchical inheritance vehicle.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\obj\Debug\heriarchical inheritance vehicle.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\heriarchical inheritance vehicle\heriarchical inheritance vehicle\obj\Debug\heriarchical inheritance vehicle.pdb

@@ -1,0 +1,23 @@
+<html>
+<body>
+enter number:<input type="text" id="n1" /><br><br>
+<input type="button" value="table" onclick="printTable();" />
+
+</body>
+<script>
+function printTable()
+{
+var num=parseInt(document.getElementById("n1").value);
+var result=1;
+var counter=1;
+while(counter<=10)
+{
+result=num*counter;
+document.write(num + "*" + counter + "=" +result);
+document.write("<br>");
+counter ++;
+}
+
+}
+</script>
+</html>

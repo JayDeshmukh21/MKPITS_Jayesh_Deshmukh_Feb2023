@@ -1,0 +1,70 @@
+<html>
+<style>
+    td {
+        text-align: center;
+    }
+
+    form {
+        margin-left: 35%;
+    }
+</style>
+<form name="f1" style="width:400; height:200; border:1px solid gray;">
+    <table width=100% align=center>
+        <tr>
+            <td><input type=text name="t1" style="width:100%;padding:5px; " />
+            </td>
+        </tr>
+    </table>
+    <table width=100% align=center>
+        <tr>
+            <td><input type=button name="b1" value="1" style="padding:25px; "
+                    onclick="show1();" /></td>
+            <td><input type=button name="b2" value="2" style="padding:25px;"
+                    onclick="show2();" /></td>
+            <td><input type=button name="b3" value="3" style="padding:25px;"
+                    onclick="show3();" /></td>
+        </tr>
+        <tr>
+            <td><input type=button name="b4" value="+" style="padding:25px;"
+                    onclick="showplus();" /></td>
+            <td><input type=button name="b5" value="-" style="padding:25px;"
+                    onclick="showminus();" /></td>
+            <td><input type=button name="b6" value="=" style="padding:25px;"
+                    onclick="showresult();" /></td>
+        </tr>
+    </table>
+
+    <script>
+        var prevnum = 0;
+        function show1() {
+
+            document.f1.t1.value = "1";
+        }
+        function show2() {
+            document.f1.t1.value = "2";
+        }
+        function show3() {
+            document.f1.t1.value = "3";
+        }
+        function showplus() {
+
+            prevnum = document.f1.t1.value;
+           
+            document.f1.t1.value = "+";
+        }
+        function showminus() {
+           
+            prevnum = document.f1.t1.value;
+
+            document.f1.t1.value = "-";
+        }
+
+        function showresult() {
+            var result = parseInt(prevnum) + parseInt(document.f1.t1.value);
+            document.f1.t1.value = result;
+
+        }
+
+    </script>
+
+</html>

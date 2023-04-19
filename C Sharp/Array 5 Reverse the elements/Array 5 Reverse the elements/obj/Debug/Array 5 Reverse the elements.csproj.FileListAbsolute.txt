@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\bin\Debug\Array 5 Reverse the elements.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\bin\Debug\Array 5 Reverse the elements.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\bin\Debug\Array 5 Reverse the elements.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\obj\Debug\Array 5 Reverse the elements.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\obj\Debug\Array 5 Reverse the elements.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\obj\Debug\Array 5 Reverse the elements.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\obj\Debug\Array 5 Reverse the elements.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Array 5 Reverse the elements\Array 5 Reverse the elements\obj\Debug\Array 5 Reverse the elements.pdb

@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\bin\Debug\form for subject mark.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\bin\Debug\form for subject mark.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\bin\Debug\form for subject mark.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form_for_subject_mark.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form_for_subject_mark.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\form for subject mark\form for subject mark\obj\Debug\form for subject mark.pdb

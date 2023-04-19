@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\bin\Debug\single inheritance using overriding.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\bin\Debug\single inheritance using overriding.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\bin\Debug\single inheritance using overriding.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\obj\Debug\single inheritance using overriding.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\obj\Debug\single inheritance using overriding.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\obj\Debug\single inheritance using overriding.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\obj\Debug\single inheritance using overriding.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\single inheritance using overriding\single inheritance using overriding\obj\Debug\single inheritance using overriding.pdb

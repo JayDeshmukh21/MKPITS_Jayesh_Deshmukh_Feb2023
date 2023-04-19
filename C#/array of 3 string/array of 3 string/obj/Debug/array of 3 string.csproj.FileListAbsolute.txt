@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\bin\Debug\array of 3 string.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\bin\Debug\array of 3 string.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\bin\Debug\array of 3 string.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\obj\Debug\array of 3 string.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\obj\Debug\array of 3 string.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\obj\Debug\array of 3 string.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\obj\Debug\array of 3 string.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\array of 3 string\array of 3 string\obj\Debug\array of 3 string.pdb

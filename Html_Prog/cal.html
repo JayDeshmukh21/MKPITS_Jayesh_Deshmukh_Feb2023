@@ -1,0 +1,258 @@
+<html>
+<style>
+td:hover
+{
+background-color:light blue;
+text-align:center;
+ }
+</style>
+<form name="f1" style="width:250;height:330;border:2px solid black">
+<table width=100% align=center><br>
+<tr>
+<td><input type=text name="t1" style="width:90% ; border:2px solid black ;padding:8px;">
+</tr>
+</table>
+<table width=100% align=center><br>
+<tr>
+<td><input type=button name="b1" value="1" style="padding:10px; border-color:black;"onclick="show1()"; /></td>
+<td><input type=button name="b2" value="2" style="padding:10px; border-color:black;"onclick="show2()"; /></td>
+<td><input type=button name="b3" value="3" style="padding:10px; border-color:black;"onclick="show3()"; /></td>
+</tr>
+
+<tr>
+<td><input type=button name="b4" value="4" style="padding:10px;border-color:black;"onclick="show4()"; /></td>
+<td><input type=button name="b5" value="5" style="padding:10px;border-color:black;"onclick="show5()"; /></td>
+<td><input type=button name="b6" value="6" style="padding:10px;border-color:black;"onclick="show6()"; /></td>
+</tr>
+
+<tr>
+<td><input type=button name="b7" value="7" style="padding:10px;border-color:black;"onclick="show7()"; /></td>
+<td><input type=button name="b8" value="8" style="padding:10px;border-color:black;"onclick="show8()"; /></td>
+<td><input type=button name="b9" value="9" style="padding:10px;border-color:black;"onclick="show9()"; /></td>
+</tr>
+
+<tr>
+<td><input type=button name="b0" value="0" style="padding:10px;border-color:black;" onclick="show0()";/></td>
+<td><input type=button name="a1" value="+" style="padding:10px;border-color:black;" onclick="showplus()"; /></td>
+<td><input type=button name="a2" value="-" style="padding:10px;border-color:black;" onclick="showminus()";/></td>
+</tr>
+
+<tr>
+<td><input type=button name="a3" value="*" style="padding:10px;border-color:black;" onclick="showmulti()";/></td>
+<td><input type=button name="a4" value="/" style="padding:10px;border-color:black;" onclick="showdiv()";/></td>
+<td><input type=button name="a5" value="=" style="padding:10px;border-color:black;" onclick="showresult()"; /></td>
+<tr>
+</table>
+
+<script language="javascript">
+var prevnum=0;
+var operator;
+function show1()
+	{
+	if(document.f1.t1.value=='+' ||document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="1";
+	}
+	else
+		{	
+		document.f1.t1.value=document.f1.t1.value+"1";
+		}	
+	}	
+
+function show2()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="2";
+	}
+	else
+		{
+		document.f1.t1.value=document.f1.t1.value+"2";
+		}
+	}	
+
+
+function show3()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="3";
+	}
+	else
+		{
+			document.f1.t1.value=document.f1.t1.value+"3";
+		}
+	}
+
+
+function show4()
+	{
+	if(document.f1.t1.value=='+' ||document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="4";
+	}
+	else
+		{	
+		document.f1.t1.value=document.f1.t1.value+"4";
+		}	
+	}	
+
+function show5()
+	{
+	if(document.f1.t1.value=='+' ||document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="5";
+	}
+	else
+		{	
+		document.f1.t1.value=document.f1.t1.value+"5";
+		}	
+	}	
+
+
+function show6()
+	{
+	if(document.f1.t1.value=='+' ||document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="6";
+	}
+	else
+		{	
+		document.f1.t1.value=document.f1.t1.value+"6";
+		}	
+	}	
+
+function show7()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="7";
+	}
+	else
+		{
+		document.f1.t1.value=document.f1.t1.value+"7";
+		}
+	}	
+
+function show8()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="8";
+	}
+	else
+		{
+		document.f1.t1.value=document.f1.t1.value+"8";
+		}
+	}	
+
+
+function show9()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="9";
+	}
+	else
+		{
+		document.f1.t1.value=document.f1.t1.value+"9";
+		}
+	}	
+
+
+function show0()
+	{
+	if(document.f1.t1.value=='+' || document.f1.t1.value=='-' ||document.f1.t1.value=='*' ||document.f1.t1.value=='/')
+	{
+	document.f1.t1.value="";
+	document.f1.t1.value="0";
+	}
+	else
+		{
+		document.f1.t1.value=document.f1.t1.value+"0";
+		}
+	}	
+
+
+
+
+function showplus()
+{
+
+prevnum=document.f1.t1.value;
+operator='+';
+document.f1.t1.value="+";
+}
+
+function showminus()
+{
+
+prevnum=document.f1.t1.value;
+operator='-';
+document.f1.t1.value="-";
+}
+
+function showmulti()
+{
+
+prevnum=document.f1.t1.value;
+operator='*';
+document.f1.t1.value="*";
+}
+
+function showdiv()
+{
+
+prevnum=document.f1.t1.value;
+operator='/';
+document.f1.t1.value="/";
+}
+
+
+
+function showresult()
+{
+		var result=0;
+		if(operator=='+')
+		{
+		 result=parseInt(prevnum) + parseInt(document.f1.t1.value);
+                   document.f1.t1.value=result;
+		}
+		else if(operator=='-')
+		{
+		 result=parseInt(prevnum) - parseInt(document.f1.t1.value);
+                   document.f1.t1.value=result;
+		}
+                         else if(operator=='*')
+		{
+		 result=parseInt(prevnum) * parseInt(document.f1.t1.value);
+                   document.f1.t1.value=result;
+		}
+
+                else if(operator=='/')
+		{
+		 result=parseInt(prevnum) / parseInt(document.f1.t1.value);
+                   document.f1.t1.value=result;
+		}
+		document.f1.t1.value=result;
+
+	}
+
+
+</script>
+
+</html>
+
