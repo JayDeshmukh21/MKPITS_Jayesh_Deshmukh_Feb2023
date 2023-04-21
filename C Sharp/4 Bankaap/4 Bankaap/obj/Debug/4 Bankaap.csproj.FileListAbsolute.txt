@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\obj\Debug\4 Bankaap.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\obj\Debug\4 Bankaap.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\obj\Debug\4 Bankaap.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\bin\Debug\4 Bankaap.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\bin\Debug\4 Bankaap.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\bin\Debug\4 Bankaap.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\obj\Debug\4 Bankaap.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\4 Bankaap\4 Bankaap\obj\Debug\4 Bankaap.pdb
