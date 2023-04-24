@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\bin\Debug\Movie Ticket Booking.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\bin\Debug\Movie Ticket Booking.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\bin\Debug\Movie Ticket Booking.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie_Ticket_Booking.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie_Ticket_Booking.Form1.resources

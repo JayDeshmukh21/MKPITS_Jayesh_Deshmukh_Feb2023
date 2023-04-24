@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE849F5C-645E-462D-BBBD-81DDE26432FD}</ProjectGuid>
+    <ProjectGuid>{433838E0-11E2-474C-9389-FC805B1C038E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Two_dimension_Array</RootNamespace>
-    <AssemblyName>Two dimension Array</AssemblyName>
+    <RootNamespace>two_dimension_array</RootNamespace>
+    <AssemblyName>two dimension array</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
