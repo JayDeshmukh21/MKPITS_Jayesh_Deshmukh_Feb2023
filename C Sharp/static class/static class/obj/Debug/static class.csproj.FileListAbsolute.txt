@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\bin\Debug\static class.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\bin\Debug\static class.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\bin\Debug\static class.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\obj\Debug\static class.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\obj\Debug\static class.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\obj\Debug\static class.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\obj\Debug\static class.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static class\static class\obj\Debug\static class.pdb

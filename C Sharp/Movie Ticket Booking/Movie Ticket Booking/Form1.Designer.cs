@@ -91,7 +91,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(3, 72);
+            this.label3.Location = new System.Drawing.Point(4, 70);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(124, 18);
             this.label3.TabIndex = 3;
@@ -293,9 +293,9 @@
             "Aashram",
             "Bhaijaan",
             "Ved"});
-            this.comboBox1.Location = new System.Drawing.Point(133, 30);
+            this.comboBox1.Location = new System.Drawing.Point(147, 28);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(237, 26);
+            this.comboBox1.Size = new System.Drawing.Size(235, 26);
             this.comboBox1.TabIndex = 16;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -310,18 +310,18 @@
             "INox",
             "Shree Talkies",
             "Liberty"});
-            this.comboBox2.Location = new System.Drawing.Point(133, 66);
+            this.comboBox2.Location = new System.Drawing.Point(148, 64);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(237, 26);
+            this.comboBox2.Size = new System.Drawing.Size(234, 26);
             this.comboBox2.TabIndex = 17;
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // numericUpDown1
             // 
             this.numericUpDown1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown1.Location = new System.Drawing.Point(134, 134);
+            this.numericUpDown1.Location = new System.Drawing.Point(148, 132);
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(237, 24);
+            this.numericUpDown1.Size = new System.Drawing.Size(235, 24);
             this.numericUpDown1.TabIndex = 18;
             // 
             // pictureBox1
@@ -338,20 +338,20 @@
             // 
             this.comboBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(133, 100);
+            this.comboBox3.Location = new System.Drawing.Point(147, 98);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(238, 26);
+            this.comboBox3.Size = new System.Drawing.Size(236, 26);
             this.comboBox3.TabIndex = 22;
             // 
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.Color.White;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(134, 176);
+            this.textBox1.Location = new System.Drawing.Point(148, 165);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(238, 30);
+            this.textBox1.Size = new System.Drawing.Size(236, 30);
             this.textBox1.TabIndex = 23;
             // 
             // pictureBox2

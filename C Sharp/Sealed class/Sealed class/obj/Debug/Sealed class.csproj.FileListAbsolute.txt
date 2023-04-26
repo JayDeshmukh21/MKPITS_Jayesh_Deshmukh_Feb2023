@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\bin\Debug\Sealed class.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\bin\Debug\Sealed class.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\bin\Debug\Sealed class.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\obj\Debug\Sealed class.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\obj\Debug\Sealed class.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\obj\Debug\Sealed class.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\obj\Debug\Sealed class.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Sealed class\Sealed class\obj\Debug\Sealed class.pdb

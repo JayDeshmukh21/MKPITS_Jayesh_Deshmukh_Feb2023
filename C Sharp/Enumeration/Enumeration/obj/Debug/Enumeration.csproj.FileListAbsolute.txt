@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enumeration\Enumeration\obj\Debug\Enumeration.pdb

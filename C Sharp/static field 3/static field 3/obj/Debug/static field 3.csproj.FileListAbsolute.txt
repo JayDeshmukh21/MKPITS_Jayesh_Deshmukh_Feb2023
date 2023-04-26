@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\bin\Debug\static field 3.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\bin\Debug\static field 3.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\bin\Debug\static field 3.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\obj\Debug\static field 3.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\obj\Debug\static field 3.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\obj\Debug\static field 3.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\obj\Debug\static field 3.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\static field 3\static field 3\obj\Debug\static field 3.pdb

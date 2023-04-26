@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\bin\Debug\Enum Grade system.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\bin\Debug\Enum Grade system.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\bin\Debug\Enum Grade system.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\obj\Debug\Enum Grade system.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\obj\Debug\Enum Grade system.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\obj\Debug\Enum Grade system.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\obj\Debug\Enum Grade system.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Enum Grade system\Enum Grade system\obj\Debug\Enum Grade system.pdb

@@ -21,6 +21,7 @@ namespace Movie_Ticket_Booking
         //Method to calculate Ticket_Price...
 
         public abstract string calculate_Ticket_Price();
+        
 
     }
     class online_Booking : Movie_Ticket

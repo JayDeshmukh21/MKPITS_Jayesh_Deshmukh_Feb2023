@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\bin\Debug\Aggrigation.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\bin\Debug\Aggrigation.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\bin\Debug\Aggrigation.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\obj\Debug\Aggrigation.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\obj\Debug\Aggrigation.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\obj\Debug\Aggrigation.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\obj\Debug\Aggrigation.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Aggrigation\Aggrigation\obj\Debug\Aggrigation.pdb

@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb

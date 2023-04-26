@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb

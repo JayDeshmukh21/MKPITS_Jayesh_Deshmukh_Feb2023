@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\bin\Debug\Exception handling 3 Throw.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\bin\Debug\Exception handling 3 Throw.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\bin\Debug\Exception handling 3 Throw.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\obj\Debug\Exception handling 3 Throw.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\obj\Debug\Exception handling 3 Throw.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\obj\Debug\Exception handling 3 Throw.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\obj\Debug\Exception handling 3 Throw.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Exception handling 3 Throw\Exception handling 3 Throw\obj\Debug\Exception handling 3 Throw.pdb

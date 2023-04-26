@@ -43,6 +43,7 @@ namespace Movie_Ticket_Booking
             }
 
             label11.Text = "Total Amount :  " + mt.calculate_Ticket_Price();
+            count = 1;
         
         }
 
@@ -127,9 +128,10 @@ namespace Movie_Ticket_Booking
             }
 
         }
-
+        int count = 0;
         private void button2_Click(object sender, EventArgs e)
         {
+          if(count >0)  
             MessageBox.Show("Your Ticket Booked Succesfully");
         }
 
