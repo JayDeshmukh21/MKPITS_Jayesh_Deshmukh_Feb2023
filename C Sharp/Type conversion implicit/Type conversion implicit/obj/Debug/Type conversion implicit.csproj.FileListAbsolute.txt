@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\bin\Debug\Type conversion implicit.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\bin\Debug\Type conversion implicit.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\bin\Debug\Type conversion implicit.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\obj\Debug\Type conversion implicit.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\obj\Debug\Type conversion implicit.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\obj\Debug\Type conversion implicit.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\obj\Debug\Type conversion implicit.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Type conversion implicit\Type conversion implicit\obj\Debug\Type conversion implicit.pdb

@@ -21,7 +21,7 @@ namespace fibonacci_series
                 c = a + b;
                 Console.WriteLine(c);
 
-                //swaping
+                //swaping 
                 a = b;
                 b = c;
             }Console.ReadLine();
