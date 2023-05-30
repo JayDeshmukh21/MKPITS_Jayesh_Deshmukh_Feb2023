@@ -91,7 +91,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(4, 70);
+            this.label3.Location = new System.Drawing.Point(4, 62);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(124, 18);
             this.label3.TabIndex = 3;
@@ -310,7 +310,7 @@
             "INox",
             "Shree Talkies",
             "Liberty"});
-            this.comboBox2.Location = new System.Drawing.Point(148, 64);
+            this.comboBox2.Location = new System.Drawing.Point(148, 59);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(234, 26);
             this.comboBox2.TabIndex = 17;
@@ -375,6 +375,8 @@
             // 
             // panel1
             // 
+            this.panel1.AllowDrop = true;
+            this.panel1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.label2);
@@ -389,7 +391,7 @@
             this.panel1.Controls.Add(this.numericUpDown1);
             this.panel1.Controls.Add(this.label6);
             this.panel1.Controls.Add(this.label5);
-            this.panel1.Location = new System.Drawing.Point(485, 12);
+            this.panel1.Location = new System.Drawing.Point(485, 11);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(400, 260);
             this.panel1.TabIndex = 15;
@@ -406,7 +408,10 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.button2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox2.ResumeLayout(false);

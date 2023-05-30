@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\bin\Debug\Ado.net database connection.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\bin\Debug\Ado.net database connection.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\bin\Debug\Ado.net database connection.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net_database_connection.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net_database_connection.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado.net database connection\Ado.net database connection\obj\Debug\Ado.net database connection.pdb

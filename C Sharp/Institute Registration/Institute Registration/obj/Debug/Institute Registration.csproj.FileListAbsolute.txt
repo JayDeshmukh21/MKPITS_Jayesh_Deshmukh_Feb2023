@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute_Registration.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute_Registration.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\bin\Debug\Institute Registration.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\bin\Debug\Institute Registration.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\bin\Debug\Institute Registration.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Institute Registration\Institute Registration\obj\Debug\Institute Registration.pdb

@@ -9,3 +9,4 @@ D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Bookin
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.exe
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie Ticket Booking.pdb
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie_Ticket_Booking.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Movie Ticket Booking\Movie Ticket Booking\obj\Debug\Movie_Ticket_Booking.Form2.resources

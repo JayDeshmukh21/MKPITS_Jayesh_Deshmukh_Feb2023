@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #97da06;
     --secondary: #34AD54;
-    --light: #EEF9FF;
+    --light: #bce2f7;
     --dark: #091E3E;
 }
 
@@ -383,8 +383,8 @@ h6,
 }
 
 .testimonial-carousel .owl-item.center .testimonial-item {
-    background: #FFFFFF !important;
-    box-shadow: 0 0 30px #DDDDDD;
+    background: #dbee49 !important;
+    box-shadow: 0 0 30px #a7b625;
 }
 
 

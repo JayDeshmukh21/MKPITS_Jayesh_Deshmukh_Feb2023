@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\bin\Debug\staticconnectionex2.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\bin\Debug\staticconnectionex2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\bin\Debug\staticconnectionex2.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\staticconnectionex2\staticconnectionex2\obj\Debug\staticconnectionex2.pdb

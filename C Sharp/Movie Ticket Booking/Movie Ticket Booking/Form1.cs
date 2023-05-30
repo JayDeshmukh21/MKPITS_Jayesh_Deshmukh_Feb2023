@@ -13,9 +13,22 @@ namespace Movie_Ticket_Booking
 {
     public partial class Form1 : Form
     {
+        Form2 form2 = null;
         public Form1()
         {
             InitializeComponent();
+            this.InitiazationEvents();
+        }
+
+        private void InitiazationEvents()
+        {
+            this.comboBox1.Click += ComboBox1_Click;
+            //throw new NotImplementedException();
+        }
+
+        private void ComboBox1_Click(object sender, EventArgs e)
+        {
+           // throw new NotImplementedException();
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -25,6 +38,8 @@ namespace Movie_Ticket_Booking
 
         private void button1_Click(object sender, EventArgs e)
         {
+            form2 = new Form2();
+            form2.ShowDialog();
             groupBox2.Show();
             label7.Text = comboBox1.Text;
             label8.Text = comboBox2.Text;

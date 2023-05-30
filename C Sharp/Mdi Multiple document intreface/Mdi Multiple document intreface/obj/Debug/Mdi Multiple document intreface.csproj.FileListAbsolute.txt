@@ -1,0 +1,13 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\bin\Debug\Mdi Multiple document intreface.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\bin\Debug\Mdi Multiple document intreface.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\bin\Debug\Mdi Multiple document intreface.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi_Multiple_document_intreface.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi_Multiple_document_intreface.Form2.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi_Multiple_document_intreface.Form3.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi_Multiple_document_intreface.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Mdi Multiple document intreface\Mdi Multiple document intreface\obj\Debug\Mdi Multiple document intreface.pdb

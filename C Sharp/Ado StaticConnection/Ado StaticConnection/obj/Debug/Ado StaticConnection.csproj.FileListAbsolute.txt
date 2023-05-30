@@ -1,0 +1,11 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado_StaticConnection.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado_StaticConnection.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\bin\Debug\Ado StaticConnection.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\bin\Debug\Ado StaticConnection.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\bin\Debug\Ado StaticConnection.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado StaticConnection\Ado StaticConnection\obj\Debug\Ado StaticConnection.pdb

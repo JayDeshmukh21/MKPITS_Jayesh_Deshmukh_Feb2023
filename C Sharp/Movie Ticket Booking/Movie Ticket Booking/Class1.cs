@@ -60,13 +60,19 @@ namespace Movie_Ticket_Booking
 
             }
 
-            public override string calculate_Ticket_Price()
+        #region ==== METHODS ====
+        /// <summary>
+        /// method to calculate
+        /// </summary>
+        /// <returns></returns>
+        public override string calculate_Ticket_Price()
             {
                 float TP = No_Of_Seats * Ticket_Price;
                 Booking_Amount = 20;
                 TP=TP+20;
                 return "Total price : " + TP.ToString();
             }
+        #endregion
     }
 
 }

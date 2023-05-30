@@ -1,0 +1,12 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado_userDetailForm.Form1.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado_userDetailForm.Properties.Resources.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.csproj.GenerateResource.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\bin\Debug\Ado userDetailForm.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\bin\Debug\Ado userDetailForm.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\bin\Debug\Ado userDetailForm.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado userDetailForm.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Ado userDetailForm\Ado userDetailForm\obj\Debug\Ado_userDetailForm.Form2.resources
