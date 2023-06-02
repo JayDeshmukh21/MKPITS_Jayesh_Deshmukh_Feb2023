@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Masterpage.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+        .newStyle1 {
+            font-family: "Wide Latin";
+        }
+        .auto-style2 {
+            color: #FF0000;
+        }
+        .auto-style3 {
+            color: #00FF00;
+        }
+        .auto-style4 {
+            color: #0099FF;
+        }
+        .auto-style5 {
+            color: #FF0066;
+        }
+        .auto-style6 {
+            width: 1077px;
+        }
+        .auto-style8 {
+            color: #009933;
+        }
+        .auto-style9 {
+            color: #FF3300;
+        }
+        .auto-style10 {
+            color: #0066FF;
+        }
+        .auto-style11 {
+            text-align: center;
+            color: #FF3300;
+        }
+        .newStyle2 {
+            font-family: "Script MT Bold";
+            font-size: 24px;
+        }
+        .auto-style12 {
+            text-align: right;
+        }
+        .newStyle3 {
+            font-family: "Bookman Old Style";
+            font-size: 18px;
+        }
+        .auto-style13 {
+            font-family: "Bookman Old Style";
+            font-size: 18px;
+            color: #CC3300;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style1">
+            <strong class="newStyle1"><span class="auto-style2">Haldiram</span><br class="auto-style2" />
+            <span class="auto-style3">Sitabuldi</span> <span class="auto-style4">Nagpur</span></strong></div>
+        <p class="auto-style5">
+            we offer different varites and serves the best items for you....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style8" NavigateUrl="~/Home.aspx">HOME</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink2" runat="server" CssClass="auto-style9" NavigateUrl="Aboutus.aspx">ABOUT US</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink3" runat="server" CssClass="auto-style10" NavigateUrl="~/Properties/Contactus.aspx">CONTACT</asp:HyperLink>
+        </p>
+        <p class="auto-style6">
+            Wlcome to Haldiram nagpur......</p>
+        <p class="auto-style11">
+            <span class="newStyle2">Weffers , Namkeens , Sweets , Deserts</span></p>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <p class="auto-style1">
+    Welcome To Home Page...</p>
+            <p class="auto-style1">
+    Search Item :
+                <asp:TextBox ID="TextBox1" runat="server" BorderStyle="Solid" Height="21px" Width="156px"></asp:TextBox>
+            </p>
+            <p class="auto-style1">
+                <asp:Button ID="Button1" runat="server" Text="OK" Width="113px" />
+            </p>
+        </asp:ContentPlaceHolder>
+    </form>
+    <p class="auto-style13">
+        Thanking Giving for visit our web site...</p>
+    <p class="auto-style1">
+        Also visit our shop near to you ... !</p>
+    <p class="auto-style12">
+        <a href="mailto:Copyright@2023">Copyright@2023</a> . All right reserve</p>
+</body>
+</html>

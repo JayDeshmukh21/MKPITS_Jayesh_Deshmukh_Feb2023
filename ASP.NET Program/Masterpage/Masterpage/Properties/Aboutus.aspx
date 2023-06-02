@@ -1,0 +1,15 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Aboutus.aspx.cs" Inherits="Masterpage.Properties.WebForm1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <p class="auto-style1">
+    Welcome to ABOUT US page ...</p>
+    <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(48, 48, 48); font-family: Montserrat, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+        <strong style="box-sizing: border-box; font-weight: 700;">OUR STORY SO FAR :</strong></p>
+    <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(48, 48, 48); font-family: Montserrat, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+    Over the course of eight decades, a lot has changed about us. We have relocated, undergone expansion, developed new product lines &amp; added segments, opened retail chains &amp; stores across India and embraced new markets overseas. One thing hasn’t changed - we’re still a tight-knit family business, committed to serving the most authentic taste of India through our products.</p>
+    <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(48, 48, 48); font-family: Montserrat, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+    Our origins can be traced back to a small namkeen shop in Bikaner founded by Ganga Bishan Agarwal (Haldiram Ji). This modest shop quickly gained popularity and scaled up to meet a booming demand for its unique-tasting bhujia. Building on this legacy, his grandson, our pioneer Mr. Shiv Kishan Agrawal steered the business towards the heights it has tasted today.</p>
+    <p>
+    &nbsp;</p>
+</asp:Content>
