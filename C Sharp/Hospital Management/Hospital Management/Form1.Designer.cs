@@ -47,14 +47,15 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label23 = new System.Windows.Forms.Label();
             this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.label4 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -92,7 +93,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
             this.panel2.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.groupBox5.SuspendLayout();
@@ -184,7 +184,7 @@
             // 
             this.radioButton4.AutoSize = true;
             this.radioButton4.BackColor = System.Drawing.Color.White;
-            this.radioButton4.Location = new System.Drawing.Point(307, 84);
+            this.radioButton4.Location = new System.Drawing.Point(443, 49);
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(126, 22);
             this.radioButton4.TabIndex = 3;
@@ -196,7 +196,7 @@
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.BackColor = System.Drawing.Color.White;
-            this.radioButton3.Location = new System.Drawing.Point(309, 46);
+            this.radioButton3.Location = new System.Drawing.Point(309, 49);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(124, 22);
             this.radioButton3.TabIndex = 2;
@@ -208,7 +208,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.BackColor = System.Drawing.Color.White;
-            this.radioButton2.Location = new System.Drawing.Point(116, 84);
+            this.radioButton2.Location = new System.Drawing.Point(162, 49);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(132, 22);
             this.radioButton2.TabIndex = 1;
@@ -220,7 +220,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.BackColor = System.Drawing.Color.White;
-            this.radioButton1.Location = new System.Drawing.Point(116, 46);
+            this.radioButton1.Location = new System.Drawing.Point(15, 50);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(130, 22);
             this.radioButton1.TabIndex = 0;
@@ -321,6 +321,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Patient Details";
             // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(6, 183);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(53, 18);
+            this.label23.TabIndex = 15;
+            this.label23.Text = "Date :";
+            // 
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
@@ -330,6 +339,13 @@
             this.checkBox3.TabIndex = 14;
             this.checkBox3.Text = "NA";
             this.checkBox3.UseVisualStyleBackColor = true;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(116, 178);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(143, 24);
+            this.dateTimePicker1.TabIndex = 6;
             // 
             // textBox2
             // 
@@ -380,13 +396,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(317, 24);
             this.textBox1.TabIndex = 7;
-            // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(116, 178);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(143, 24);
-            this.dateTimePicker1.TabIndex = 6;
             // 
             // label4
             // 
@@ -735,15 +744,6 @@
             this.label1.Size = new System.Drawing.Size(260, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "He@lth CARE Center";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(6, 183);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(53, 18);
-            this.label23.TabIndex = 15;
-            this.label23.Text = "Date :";
             // 
             // Form1
             // 

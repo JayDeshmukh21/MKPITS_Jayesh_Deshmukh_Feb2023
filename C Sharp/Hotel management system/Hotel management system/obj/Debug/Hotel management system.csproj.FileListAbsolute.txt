@@ -9,3 +9,5 @@ D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management sy
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.CoreCompileInputs.cache
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management system\Hotel management system\obj\Debug\Hotel management system.exe
 D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management system\Hotel management system\obj\Debug\Hotel management system.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Booking.resources
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Payment.resources

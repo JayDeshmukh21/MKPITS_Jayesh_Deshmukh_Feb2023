@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\obj\Debug\Enum in a Switch Statement.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\obj\Debug\Enum in a Switch Statement.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\obj\Debug\Enum in a Switch Statement.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\bin\Debug\Enum in a Switch Statement.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\bin\Debug\Enum in a Switch Statement.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\bin\Debug\Enum in a Switch Statement.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\obj\Debug\Enum in a Switch Statement.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Enum in a Switch Statement\Enum in a Switch Statement\obj\Debug\Enum in a Switch Statement.pdb

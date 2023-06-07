@@ -281,6 +281,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(200, 25);
             this.textBox3.TabIndex = 6;
+            this.textBox3.Text = "800";
             this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             this.textBox3.Leave += new System.EventHandler(this.textBox3_Leave);
             // 
@@ -297,6 +298,7 @@
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(159, 211);
             this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.ShowUpDown = true;
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 25);
             this.dateTimePicker1.TabIndex = 4;
             // 

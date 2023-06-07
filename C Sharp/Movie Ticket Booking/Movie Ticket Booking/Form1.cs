@@ -13,7 +13,7 @@ namespace Movie_Ticket_Booking
 {
     public partial class Form1 : Form
     {
-        Form2 form2 = null;
+        //Form2 form2 = null;
         public Form1()
         {
             InitializeComponent();
@@ -23,6 +23,8 @@ namespace Movie_Ticket_Booking
         private void InitiazationEvents()
         {
             this.comboBox1.Click += ComboBox1_Click;
+            
+
             //throw new NotImplementedException();
         }
 
@@ -38,8 +40,10 @@ namespace Movie_Ticket_Booking
 
         private void button1_Click(object sender, EventArgs e)
         {
-            form2 = new Form2();
-            form2.ShowDialog();
+            pictureBox5.Hide();
+
+            //form = new Form2();
+            //form2.ShowDialog();
             groupBox2.Show();
             label7.Text = comboBox1.Text;
             label8.Text = comboBox2.Text;
@@ -75,6 +79,7 @@ namespace Movie_Ticket_Booking
                     pictureBox1.Show();
                     pictureBox2.Hide();
                     pictureBox3.Hide();
+                    pictureBox4.Hide();
 
                     break;
 
@@ -84,6 +89,8 @@ namespace Movie_Ticket_Booking
                     pictureBox3.Show();
                     pictureBox2.Hide();
                     pictureBox1.Hide();
+                    pictureBox4.Hide();
+
                     break;
 
                 case "Ved":
@@ -92,6 +99,8 @@ namespace Movie_Ticket_Booking
                     pictureBox2.Show();
                     pictureBox1.Hide();
                     pictureBox3.Hide();
+                    pictureBox4.Hide();
+
                     break;
 
             }
@@ -147,7 +156,7 @@ namespace Movie_Ticket_Booking
         private void button2_Click(object sender, EventArgs e)
         {
           if(count >0)  
-            MessageBox.Show("Your Ticket Booked Succesfully");
+            MessageBox.Show("Your Ticket Booked Successfully");
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -173,10 +182,12 @@ namespace Movie_Ticket_Booking
 
             private void Form1_Load(object sender, EventArgs e)
             {
-                pictureBox1.Hide();
+            pictureBox5.Show();
+            pictureBox4.Show();
+            pictureBox1.Hide();
             pictureBox2.Hide();
             pictureBox3.Hide();
-            groupBox2.Hide();
+           // groupBox2.Hide();
 
         }
 
@@ -186,6 +197,11 @@ namespace Movie_Ticket_Booking
         }
 
         private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
         {
 
         }
