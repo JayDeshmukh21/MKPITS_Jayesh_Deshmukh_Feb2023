@@ -181,6 +181,12 @@ namespace Institute_Registration
                 e.Handled = true;
             }
         }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
+        {
+            
+
+        }
     }
 }
        
