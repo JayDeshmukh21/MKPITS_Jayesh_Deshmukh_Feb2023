@@ -56,16 +56,17 @@ namespace UserManagementex
         protected void Button4_Click(object sender, EventArgs e)
         {
             HttpCookie cookie2 = Request.Cookies["cook2"];
-            string uname = cookie2.Values["Username"].ToString();
-            string email = cookie2.Values["Email"].ToString();
+            
             if(cookie2 != null)
             {
-                Label1.Text = uname.ToString();
-                Label2.Text = email.ToString();
+                string uname = cookie2.Values["Username"].ToString();
+                string uemail = cookie2.Values["Email"].ToString();
+                Label1.Text = "username" + uname.ToString();
+                Label2.Text = "email :" + uemail.ToString();
             }
            else
             {
-                Label1.Text = "Cookie not exist";
+                Label1.Text = "no permanent cookie exist ";
             }
         }
     }
