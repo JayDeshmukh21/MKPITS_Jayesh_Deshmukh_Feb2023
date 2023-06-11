@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\bin\Debug\Multiple Object.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\bin\Debug\Multiple Object.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\bin\Debug\Multiple Object.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\obj\Debug\Multiple Object.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\obj\Debug\Multiple Object.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\obj\Debug\Multiple Object.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\obj\Debug\Multiple Object.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Multiple Object\Multiple Object\obj\Debug\Multiple Object.pdb

@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\bin\Debug\class and object.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\bin\Debug\class and object.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\bin\Debug\class and object.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\obj\Debug\class and object.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\obj\Debug\class and object.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\obj\Debug\class and object.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\obj\Debug\class and object.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\class and object\class and object\obj\Debug\class and object.pdb

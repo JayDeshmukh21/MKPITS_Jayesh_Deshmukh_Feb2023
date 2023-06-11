@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\bin\Debug\Constructor2.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\bin\Debug\Constructor2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\bin\Debug\Constructor2.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\obj\Debug\Constructor2.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\obj\Debug\Constructor2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\ASP.NET Program\Constructor2\Constructor2\obj\Debug\Constructor2.pdb
