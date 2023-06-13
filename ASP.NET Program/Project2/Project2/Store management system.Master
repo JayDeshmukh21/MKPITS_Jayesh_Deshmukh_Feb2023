@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store management system.master.cs" Inherits="Project2.Store_management_system" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style1">
+            <h1><strong>Store Management System</strong></h1>
+            <p>
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm1.aspx">Item Entry</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/WebForm2.aspx">Depertment</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/WebForm3.aspx">Vendor Master</asp:HyperLink>
+            </p>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+    <p>
+        <a href="mailto:Trust@2023.All">Trust@2023.All</a> right reserve.</p>
+</body>
+</html>

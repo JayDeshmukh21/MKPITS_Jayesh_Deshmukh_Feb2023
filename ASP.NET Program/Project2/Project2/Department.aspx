@@ -18,6 +18,13 @@
                 <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             </asp:Panel>
         </div>
+        <asp:Button ID="Button1" runat="server" Text="Insert" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button2" runat="server" Text="Update" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button3" runat="server" Text="Delete" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button4" runat="server" Text="Search" />
     </form>
 </body>
 </html>

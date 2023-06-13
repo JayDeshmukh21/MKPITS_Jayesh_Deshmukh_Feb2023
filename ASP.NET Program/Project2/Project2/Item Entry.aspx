@@ -21,13 +21,13 @@
             Rate :<br />
             <br />
             Balance quantity :</asp:Panel>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:Button ID="Button1" runat="server" Text="Insert" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" Text="Button" />
+        <asp:Button ID="Button2" runat="server" Text="Update" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" Text="Button" />
+        <asp:Button ID="Button3" runat="server" Text="Delete" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button4" runat="server" Text="Button" />
+        <asp:Button ID="Button4" runat="server" Text="Search" />
     </form>
 </body>
 </html>
