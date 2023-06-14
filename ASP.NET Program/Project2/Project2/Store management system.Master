@@ -11,6 +11,9 @@
         .auto-style1 {
             text-align: center;
         }
+        .auto-style2 {
+            margin-left: 365px;
+        }
     </style>
 </head>
 <body>
@@ -26,6 +29,10 @@
             </p>
         </div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <div class="auto-style1">
+                <asp:Panel ID="Panel1" runat="server" CssClass="auto-style2" Width="660px">
+                </asp:Panel>
+            </div>
         </asp:ContentPlaceHolder>
     </form>
     <p>

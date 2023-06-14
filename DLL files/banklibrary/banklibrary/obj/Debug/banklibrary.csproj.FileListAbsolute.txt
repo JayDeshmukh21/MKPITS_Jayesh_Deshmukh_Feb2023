@@ -1,0 +1,6 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\bin\Debug\banklibrary.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\bin\Debug\banklibrary.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\obj\Debug\banklibrary.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\obj\Debug\banklibrary.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\obj\Debug\banklibrary.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\banklibrary\banklibrary\obj\Debug\banklibrary.pdb
