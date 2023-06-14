@@ -13,13 +13,16 @@
         <br />
         <br />
         <br />
-        <asp:Button ID="Button1" runat="server" Text="Insert" />
+        <asp:Button ID="Button1" runat="server" Text="Insert" OnClick="Button1_Click" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" Text="Update" />
+        <asp:Button ID="Button2" runat="server" Text="Update" OnClick="Button2_Click" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" Text="Delete" />
+        <asp:Button ID="Button3" runat="server" Text="Delete" OnClick="Button3_Click" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button4" runat="server" Text="Search" />
+        <br />
+        <br />
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
     </div>
 </asp:Panel>
 </asp:Content>

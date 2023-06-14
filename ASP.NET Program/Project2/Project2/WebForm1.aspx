@@ -39,7 +39,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Update" />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button3" runat="server" Text="Delete" />
+            <asp:Button ID="Button3" runat="server" Text="Delete" OnClick="Button3_Click" />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button4" runat="server" Text="Search" />
             <br />
