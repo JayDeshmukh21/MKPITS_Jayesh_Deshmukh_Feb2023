@@ -6,6 +6,7 @@ CREATE TABLE Department_mast (Department_Id int IDENTITY(1,1) primary key, Depar
 
 
 CREATE TABLE Vendor_mast (Vendor_Id int IDENTITY(1,1) primary key, Vendor_Name varchar(500))
+Select * From Vendor_mast
 
 
 CREATE TABLE Transactions (Transaction_Id int IDENTITY(1,1) primary key,

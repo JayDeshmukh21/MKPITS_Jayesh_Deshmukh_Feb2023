@@ -1,0 +1,6 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\obj\Debug\storelibrary.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\obj\Debug\storelibrary.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\bin\Debug\storelibrary.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\bin\Debug\storelibrary.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\obj\Debug\storelibrary.dll
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\DLL files\storelibrary\storelibrary\obj\Debug\storelibrary.pdb

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Data;
 
 namespace Project2
 {
@@ -38,7 +39,7 @@ namespace Project2
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            str = "update Department_mast set department_Name = @Department_Name";
+            str = "update Department_mast set Department_Name = @Department_Name";
             SqlCommand cmd = new SqlCommand(str, con);
             cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
             con.Open();
@@ -60,6 +61,15 @@ namespace Project2
             Label1.Text = "record inserted.";
             TextBox1.Text = "";
             TextBox1.Focus();
+        }
+
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            str = "Select * from Department_mast where Department_Name = @Department_Name";
+            sda = new SqlDataAdapter (str,con);
+            sda.SelectCommand.Parameters.AddWithValue("@Department_Name",TextBox1.Text);
+            sda.Fill(ds, "Department_mast");
+            TextBox1.Text = ds.Tables["Department_mast"].Rows[0].ItemArray[1].ToString();
         }
     }
 }

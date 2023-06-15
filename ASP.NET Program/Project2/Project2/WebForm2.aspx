@@ -19,7 +19,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button3" runat="server" Text="Delete" OnClick="Button3_Click" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button4" runat="server" Text="Search" />
+        <asp:Button ID="Button4" runat="server" Text="Search" OnClick="Button4_Click" />
         <br />
         <br />
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
