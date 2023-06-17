@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -66,7 +67,7 @@ namespace storelibrary
         {
             string res = null;
 
-            //chacking wheather vendorid exist or not
+            //checking whether vendor id exist or not
 
             query = "select count(*) from vendor_mast where vendor_id = @vendor_id";
             cmd = new SqlCommand(query, con);
@@ -81,7 +82,7 @@ namespace storelibrary
                 {
                     query = "update vendor_mast set vendor_name=@vendor_name where vendor_id = @vendor_id";
                     cmd = new SqlCommand(query, con);
-                    cmd.Parameters.AddWithValue("@Vendor_Name", Vendor_Name);
+                    cmd.Parameters.AddWithValue("@Vendor_Name", Vendor_name);
                     cmd.Parameters.AddWithValue("@Vendor_Id", Vendor_Id);
                     con.Open();
                     cmd.ExecuteNonQuery();
@@ -108,18 +109,58 @@ namespace storelibrary
         public static string deleteVendor_mast(int Vendor_Id)
         {
             string res = null;
+            
+            
+                //checking whether vendor_id exist master
+                query = "select count (*) from Vendor_mast where Vendor_Id=@Vendor_Id";
+                cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Vendor_Id", Vendor_Id);
+                con.Open();
+                int cnt = Convert.ToInt32(cmd.ExecuteScalar());
+                con.Close();
+                if (cnt > 0)
+                {
+                    try
+                    {
+                        query = "delete from vendor_mast where vendor_id = @vendor_id";
+                        cmd = new SqlCommand(query, con);
+                        cmd.Parameters.AddWithValue("@Vendor_Id", Vendor_Id);
+                        con.Open();
+                        cmd.ExecuteNonQuery();
+                        res = "record deleted in vendor master successfully";
 
-            //checking whether vendor_id exist master
-            query = "select count (*) from Vendor_mast where Vendor_Id";
-            cmd = new SqlCommand(query, con);
-            cmd.Parameters.AddWithValue("@Vendor_Id", Vendor_Id);
-            con.Open();
-            int cnt = Convert.ToInt32 (cmd.ExecuteScalar());
-            con.Close();
-            if(cnt > 0)
-            {
+                    }
+                    catch (Exception ex)
+                    {
+                        res = ex.ToString();
 
-            }
+                    }
+                    finally
+                    {
+                        con.Close();
+                    }
+                }
+                else
+                {
+                    res = "no record exist";
+                }
+                return res;
+            
+        }
+        //method to search record in vendor master
+
+        public static DataSet searchVendor_mast(int vendor_id)
+        {
+            query = "select * from vendor_mast where vendor_id = @vendor_id";
+            DataSet ds = new DataSet();
+            SqlDataAdapter sda = new SqlDataAdapter(query, con);
+            sda.SelectCommand.Parameters.AddWithValue("@vendor_id", vendor_id);
+            sda.Fill(ds,"Vendor_mast");
+            return ds;
+            //cmd = new SqlCommand(query, con);
+            //cmd.Parameters.AddWithValue ("@vendor_id", vendor_id);
+            //con.Open();
+
         }
     }
 }

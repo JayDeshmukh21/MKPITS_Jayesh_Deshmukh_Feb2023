@@ -3,7 +3,7 @@ CREATE TABLE Item_master (Item_Id int IDENTITY(1,1) primary key, Item_Name varch
 Select * From Item_master
 
 CREATE TABLE Department_mast (Department_Id int IDENTITY(1,1) primary key, Department_Name varchar(500))
-
+select * from  Department_mast
 
 CREATE TABLE Vendor_mast (Vendor_Id int IDENTITY(1,1) primary key, Vendor_Name varchar(500))
 Select * From Vendor_mast

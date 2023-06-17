@@ -126,6 +126,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Department.aspx" />
+    <Content Include="Dept.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -221,6 +222,13 @@
     </Compile>
     <Compile Include="Department.aspx.designer.cs">
       <DependentUpon>Department.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dept.aspx.cs">
+      <DependentUpon>Dept.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dept.aspx.designer.cs">
+      <DependentUpon>Dept.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

@@ -35,25 +35,25 @@ namespace TrustProject
 
         protected void Button3_Click(object sender, EventArgs e)
         {
-            string res = VendorClass.updateVendor_mast(TextBox1.Text, Convert.ToInt32(TextBox2.Text));
+            string res = VendorClass.updateVendor_mast(TextBox2.Text, Convert.ToInt32(TextBox1.Text));
 
             Label1.Text = res;
         }
 
         protected void Button4_Click(object sender, EventArgs e)
         {
-           string res = VendorClass.deleteVendor_mast(Convert.ToInt32(TextBox2.Text));
+           string res = VendorClass.deleteVendor_mast(Convert.ToInt32(TextBox1.Text));
             Label1.Text = res;
-        }
+        }   
 
         protected void Button1_Click(object sender, EventArgs e)
         {
             DataSet ds = new DataSet();
-            ds = VendorClass.searchVendor_mast(Convert.ToInt32(TextBox2.Text));
+            ds = VendorClass.searchVendor_mast(Convert.ToInt32(TextBox1.Text));
 
             if (ds.Tables[0].Rows.Count != 0)
             {
-                TextBox1.Text = ds.Tables["Vendor_mast"].Rows[0].ItemArray[1].ToString();
+                TextBox2.Text = ds.Tables["Vendor_mast"].Rows[0].ItemArray[1].ToString();
             }
             else
             {
