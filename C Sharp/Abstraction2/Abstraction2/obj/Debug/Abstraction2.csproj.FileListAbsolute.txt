@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\bin\Debug\Abstraction2.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\bin\Debug\Abstraction2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\bin\Debug\Abstraction2.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\obj\Debug\Abstraction2.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\obj\Debug\Abstraction2.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\obj\Debug\Abstraction2.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\obj\Debug\Abstraction2.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Abstraction2\Abstraction2\obj\Debug\Abstraction2.pdb
