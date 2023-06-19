@@ -149,7 +149,8 @@ namespace DrivenITProject
         {
             TextBox1.Text = GridView1.SelectedRow.Cells[4].Text;
             //  TextBoxUserName.Text = GridView1.SelectedRow.Cells[2].Text;
-
+            TextBox2.Text = GridView1.SelectedRow.Cells[5].Text;
+            DropDownList1.SelectedValue= GridView1.SelectedRow.Cells[3].Text;
         }
     }
 
