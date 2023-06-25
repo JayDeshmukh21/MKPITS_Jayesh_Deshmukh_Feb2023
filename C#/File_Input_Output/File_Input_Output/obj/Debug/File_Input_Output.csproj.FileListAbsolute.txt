@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\bin\Debug\File_Input_Output.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\bin\Debug\File_Input_Output.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\bin\Debug\File_Input_Output.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\obj\Debug\File_Input_Output.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\obj\Debug\File_Input_Output.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\obj\Debug\File_Input_Output.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\obj\Debug\File_Input_Output.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\File_Input_Output\File_Input_Output\obj\Debug\File_Input_Output.pdb

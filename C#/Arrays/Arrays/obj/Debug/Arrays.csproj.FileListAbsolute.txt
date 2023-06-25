@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\Arrays\Arrays\obj\Debug\Arrays.pdb

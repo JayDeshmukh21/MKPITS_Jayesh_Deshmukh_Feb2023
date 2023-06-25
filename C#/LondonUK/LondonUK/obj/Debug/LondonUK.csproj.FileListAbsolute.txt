@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\bin\Debug\LondonUK.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\bin\Debug\LondonUK.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\bin\Debug\LondonUK.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\obj\Debug\LondonUK.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\obj\Debug\LondonUK.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\obj\Debug\LondonUK.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\obj\Debug\LondonUK.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C#\LondonUK\LondonUK\obj\Debug\LondonUK.pdb
