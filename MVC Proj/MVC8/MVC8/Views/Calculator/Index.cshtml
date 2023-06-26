@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MVC8.Models.Calculator
+
+@using (Html.BeginForm("Index","Calculator",FormMethod.Post))
+{
+    <h1>Find Operator</h1>
+    <b>Enter number  1</b>
+    @Html.TextBoxFor(m=>m.num1)
+    <br />
+    <br />
+    <b>Enter number  2</b>
+    @Html.TextBoxFor(m=>m.num2)
+    <br />
+    <br />
+    <b>Enter operator</b>
+    @Html.TextBoxFor(m=>m.op)
+    <br />
+    <br />
+    <input type="submit" value="operator" />
+    <br />
+    <hr />
+}
+
+number1 : @ViewBag.num1
+<br />
+number2 : @ViewBag.num2
+<br />
+Result  : @ViewBag.result
+<br />

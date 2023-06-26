@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\MVC Proj\MVC8\MVC8
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Dot_net_prog/(Old) MKPITS_Jayesh_Deshmukh_Feb2023/MVC Proj/MVC8/MVC8/Views/Calculator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dot_net_prog/(Old) MKPITS_Jayesh_Deshmukh_Feb2023/MVC Proj/MVC8/MVC8/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Dot_net_prog/(Old) MKPITS_Jayesh_Deshmukh_Feb2023/MVC Proj/MVC8/MVC8/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

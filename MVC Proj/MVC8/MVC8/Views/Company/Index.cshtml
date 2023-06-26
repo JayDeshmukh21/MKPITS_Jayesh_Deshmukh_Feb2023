@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MVC8.Models.CompanyModel
+@using (Html.BeginForm("Index","Company",FormMethod.Post))
+{
+    <h1>Fendahal</h1>
+    <br />
+    <br />
+    <b>Enter ID :</b>
+    @Html.TextBoxFor(c=>c.empid)
+    <br />
+    <br />
+    <b>Enter name :</b>
+    @Html.TextBoxFor(c=>c.empname)
+    <br />
+    <br />
+    <b>Enter salary :</b>
+    @Html.TextBoxFor(c=>c.empsalary)
+    <br />
+    <br />
+    <b>Enter designation :</b>
+    @Html.TextBoxFor(c=>c.designation)
+    <br />
+    <br />
+    <input type="submit" value="company"/>
+    <hr />
+}
+<br />
+<h2>Employee Details</h2>
+ID          : @ViewBag.empid
+<br />
+Name        : @ViewBag.empname
+<br />
+Bonus       : @ViewBag.empbonus
+<br />
+Total Salary: @ViewBag.totalsalary
+<br />
+Designation : @ViewBag.designation
+<br />
