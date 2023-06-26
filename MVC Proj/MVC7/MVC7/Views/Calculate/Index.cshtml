@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewBag.Titel = "Index";
+}
+@model MVC7.Models.CalculateModel
+@using (Html.BeginForm("Index", "Calculate", FormMethod.Post)) ;
+<h1> addition form</h1>
+<b>Enter First no.&nbsp;&nbsp;</b> @Html.TextBoxFor(m=>m.num1)
+<br>
+<b>Enter Second no.</b> @Html.TextBoxFor(m=>m.num2)
+<br>
+<input type="submit" value="Calc" />
+<br>
+<hr />
+<h2>Calculation</h2>
+result : @ViewBag.result
+

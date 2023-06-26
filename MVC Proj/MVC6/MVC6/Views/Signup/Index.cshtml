@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewBag.Title = "Index";
+}
+@model MVC6.Models.SignupModel
+@using (Html.BeginForm("index", "Signup",FormMethod.Post));
+    <h1>Signup Form</h1>
+    <br />
+<b>Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b> @Html.TextBoxFor(m=>m.username,new{@value="Enter name",@class="pink"})
+    <style>
+    .pink
+    {color :purple;}
+    </style>
+    <br>
+    <b>Password</b> @Html.TextBoxFor(x=>x.password,new{@value="Enter password",@class="white"})
+    <style>
+        .white
+        {
+            color :green;
+        }
+    </style>
+    <br>
+    <input type="submit" value="Signup"/>
+    <br />
+    <hr />
+    <br />
+    
+    <h1>Signup Details</h1>
+    username is : @ViewBag.username
+    <br />
+    password is : @ViewBag.password
+
+

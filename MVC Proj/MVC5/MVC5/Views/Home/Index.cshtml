@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@model MVC5.Models.UserModel
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+   // @Html.TextBoxFor(m=>m.Name,new{@Value="Enter name",@class="red"})
+}
+<style>
+    .red
+    (color : red;)
+</style>
+
+
+<b>Name</b><input id="Name" name="Name" type="text" value="Enter name" class="red" />
+
