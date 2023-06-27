@@ -21,17 +21,17 @@ namespace MVC8.Controllers
             int totalsalary;
             if(c.designation =="manager")
             {
-                c.empbonus = 10000;
+                ViewBag.empbonus = 10000;
                 ViewBag.totalsalary = 10000 + c.empsalary;
             }
             else if(c.designation =="clerk")
             {
-                c.empbonus = 5000;
+                ViewBag.empbonus = 5000;
                 ViewBag.totalsalary = 5000 + c.empsalary;
             }
             else if (c.designation =="peon")
             {
-                c.empbonus = 1000;
+                ViewBag.empbonus = 1000;
                 ViewBag.totalsalary = 1000 + c.empsalary;
             }
             return View();

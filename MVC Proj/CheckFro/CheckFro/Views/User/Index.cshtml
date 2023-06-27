@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model CheckFro.Models.UserModel
+@using (Html.BeginForm("Index","User",FormMethod.Post))
+{
+    <h1>Input user details</h1>
+    <br />
+    <br />
+    <b>Enter name </b>
+    <br />
+    @Html.TextBoxFor(m=>m.name)
+    <hr />
+    <br />
+    <span>Tea :</span>
+    @Html.CheckBoxFor(m=>m.tea,true)
+    <span> | Coffee :</span>
+    @Html.CheckBoxFor(m=>m.coffee,false)
+    <span> | Breakfast :</span>
+    @Html.CheckBoxFor(m=>m.breakfast,false)
+    <br />
+    <hr />
+    <br />
+    <input type="submit" value="Press" />
+    <br />
+    <br />
+    <hr />
+
+}
+<h2>Details</h2>
+<br />
+Name : @ViewBag.name
+<br />
+Tea : @ViewBag.tea
+<br />
+Coffee : @ViewBag.coffee
+<br />
+Breakfast : @ViewBag.breakfast
+<br />
+<hr />

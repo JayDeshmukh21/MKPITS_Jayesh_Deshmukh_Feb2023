@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BankAPI.Models.AccountModel
+@using (Html.BeginForm("index","Account",FormMethod.Post))
+{
+    <h1 style="color:darkred">Input Amount</h1>
+    <br />
+    <b>Enter name :</b>
+    <br />
+    @Html.TextBoxFor(m=>m.name)
+    <br />
+    <br />
+    <b>Enter amount :</b>
+    <br />
+    @Html.TextBoxFor(m=>m.amount)
+    <br />
+    <br />
+    <span>Deposite : </span>
+    @Html.RadioButtonFor(m=>m.actype,"deposite")
+    <span> | Withdraw : </span>
+    @Html.RadioButtonFor(m=>m.actype,"withdraw")
+    <br />
+    <br />
+    <input type="submit" value="Submit" style="color:forestgreen"/>
+    <br />
+    <hr />
+
+}
+<h2 style="color:darkorange">Account Details</h2>
+<br />
+Name : @ViewBag.name
+<br />
+Entered Amount : @ViewBag.amount
+<br />
+Type : @ViewBag.actype
+<br />
+Account balance : @ViewBag.bal
+<br />
+
