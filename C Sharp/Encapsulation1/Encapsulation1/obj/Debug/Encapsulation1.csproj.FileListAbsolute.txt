@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.pdb

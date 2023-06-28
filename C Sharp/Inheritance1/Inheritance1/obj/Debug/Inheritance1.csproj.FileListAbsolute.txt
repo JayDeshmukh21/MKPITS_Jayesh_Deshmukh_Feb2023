@@ -1,0 +1,8 @@
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe.config
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\bin\Debug\Inheritance1.pdb
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.AssemblyReference.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.SuggestedBindingRedirects.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.CoreCompileInputs.cache
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\obj\Debug\Inheritance1.exe
+D:\Dot_net_prog\(Old) MKPITS_Jayesh_Deshmukh_Feb2023\C Sharp\Inheritance1\Inheritance1\obj\Debug\Inheritance1.pdb
