@@ -741,9 +741,9 @@
             this.label1.ForeColor = System.Drawing.Color.DarkSlateBlue;
             this.label1.Location = new System.Drawing.Point(483, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(260, 29);
+            this.label1.Size = new System.Drawing.Size(249, 29);
             this.label1.TabIndex = 0;
-            this.label1.Text = "He@lth CARE Center";
+            this.label1.Text = "Health CARE Center";
             // 
             // Form1
             // 
