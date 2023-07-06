@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row">
+        <div class="row mt-5 mb-5">
 
         </div>
         <div class="row">
@@ -19,7 +19,7 @@
             <div class ="col-md-4">
                 <form id="form1" runat="server">
                     <div>
-                        <img src="../Assets/Images/books2.jpg.png" />
+                        <img src="../Assets/Images/books2.jpg.png" class="align-content-center" />
                     </div>
                     <div class="mt-3">
                         <label for="" class="form-label">User Name</label>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="mt-3">
                         <label for="" class="form-label">Password</label>
-                    <input type="password" placeholder="User Name" autocomplete="off" class="form-control" />
+                    <input type="password" placeholder="Password" autocomplete="off" class="form-control" />
                     </div>
                     <div class="mt-3 d-grid">
                        <asp:Button Text="Login" runat="server" CssClass="btn-success btn"/>
