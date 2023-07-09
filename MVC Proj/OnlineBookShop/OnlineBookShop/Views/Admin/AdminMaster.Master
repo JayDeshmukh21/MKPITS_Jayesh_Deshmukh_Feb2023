@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="OnlineBookShop.Views.Admin.AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        *{
+            font-family:'Tyros Pro';
+        }
+        #left{
+            color:white;
+            height:695px;
+            background-color:teal;
+        }
+        label{
+            color:white;
+        }
+    </style>
+    <link  href="../../Assets/Lib/css/bootstrap.min.css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2 bg-teal" id="left">
+                <div style="heignt:120px">
+
+                    </div>
+                <div class="p-2">
+                    <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Books</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Books</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Authors</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Sellers</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Categories</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/book6.jpg" height="20" width="20"/>
+                        <a href="#"><label>Logout</label></a>
+                </div>
+                </div>
+                
+                    </div>
+                <div class="col-10">
+        
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="MyContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    </div>
+  </div>
+ </div>
+</body>
+</html>
