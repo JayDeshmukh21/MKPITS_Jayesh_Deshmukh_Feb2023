@@ -1,0 +1,119 @@
+﻿<fieldset>
+    <div class="form-horizontal">
+        <div class="editor-label">
+            Name
+        </div>
+        <div class="editor-label">
+            <input type="text" id="txtName" />
+        </div>
+
+        <div class="editor-label">
+            Address
+        </div>
+        <div class="editor-label">
+            <input type="text" id="txtAddress" />
+        </div>
+
+        <div class="editor-label">
+            City
+        </div>
+        <div class="editor-label">
+            <select id="txtCity">
+                <option value="nagpur">nagpur</option>
+                <option value="mumbai">mumbai</option>
+            </select>
+        </div>
+        <div class="editor-label">
+            <br />
+            <input class="btn-default" type="button" id="btnSave" value="Save" />
+            <input class="btn-default" type="button" id="btnUpdate" value="Update" />
+            <input class="btn-default" type="button" id="btnDelete" value="Delete" />
+        </div>
+    </div>
+</fieldset>
+@{ 
+    ViewBag.Title = "AddEmployee";
+}
+<h2>AddEmployee</h2>
+<script src="~/Scripts/jquery-3.7.0.min.js"type="text/javascript"></script>
+
+<script>
+    $(document).ready(function ()
+    {
+        $("#btnSave").click(function ()
+        {
+            $.ajax(
+                {
+                    type: "POST",
+                    url: "/Home/AddEmployee",
+                    data:
+                    {
+                        Name: $("#txtName").val(),
+                        City: $("#txtCity").val(),
+                        Address: $("#txtAddress").val()
+                    },
+                    success: alert("Record inserted")
+                });
+        });
+    });
+
+    //$(document).ready
+    //    (function () {
+    //        $("#btnUpdate").click(function () {
+    //            $.ajax
+    //                ({
+    //                    type: "POST",
+    //                    url: "/Home/UpdateEmployee",
+    //                    data:
+    //                    {
+    //                        Name: $("#txtName").val(),
+    //                        Address: $("#txtAddress").val(),
+    //                        City: $("#txtCity").val()
+
+    //                    },
+    //                    success: alert("Record Updated")
+    //                });
+    //        });
+    //    });
+
+
+
+    $(document).ready(function () {
+        $("#btnUpdate").click(function () {
+
+            $.ajax(
+                {
+                    type: "POST",
+                    url: "/Home/UpdateEmployee", // Controller/View
+                    data: { //Passing data
+                        Name: $("#txtName").val(),
+                        Address: $("#txtAddress").val(),
+                        City: $("#txtCity").val()
+                    },
+                    success: alert("record updated")
+
+                });
+
+
+        });
+    });
+
+
+
+    //$(document).ready(function () {
+    //    $("#btnDelete").click(function () {
+    //        $.ajax(
+    //            {
+    //                type: "post",
+    //                url: "/Home/DeleteEmployee",
+    //                data:
+    //                {
+    //                    Name: $("#txtName").val(),
+    //                    City: $("#txtCity").val(),
+    //                    Address: $("#txtAddress").val()
+    //                },
+    //                success: alert("Record Deleted"),
+    //            });
+    //    });
+    //});
+</script>
